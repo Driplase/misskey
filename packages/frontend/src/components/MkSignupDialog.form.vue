@@ -173,7 +173,7 @@ function onChangeUsername(): void {
 
 	{
 		const err =
-			!username.value.match(/^[a-zA-Z0-9_]+$/) ? 'invalid-format' :
+			!username.value.match(/^[a-zA-Z0-9_\-]+$/) ? 'invalid-format' :
 			username.value.length < 1 ? 'min-range' :
 			username.value.length > 3 ? 'max-range' :
 			null;
