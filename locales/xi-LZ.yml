@@ -1,0 +1,3225 @@
+_lang_: éxlip
+headlineMisskey: la network connected bj jlèyyz
+introMisskey: >-
+  wëlçorjal! Misskey éy lj oplét source, decentralized microblogging service.
+
+  creádö "jlèyyz" tú share söqi thoughts with exåfyoxë larånsj söq. 📡
+
+  With "reactions", söq kjär asço é'quiång express söqi feelings ös exåfyoxë's
+  jlèyyz. 👍
+
+  Let's explore la náu wérçe! 🚀
+poweredByMisskeyDescription: >-
+  {name} éy oxë jif ëhy services p'urálj bj ëhy oplét source platform
+  <b>Misskey</b> (referred tú lyn la "Misskey instance").
+monthAndDay: '{month}/{day}'
+search: sår
+notifications: Notifications
+username: Username
+password: Password
+initialPasswordForSetup: Initial password jez setup
+initialPasswordIsIncorrect: Initial password jez setup éy b'älid
+initialPasswordForSetupDescription: >-
+  lyv ëhy password söq dé'hrālj hyí ëhy çäldigúriëj fil f söq installed Misskey
+  söqilery.
+   f söq ávç lyvíng la Misskey yäkkíng service, lyv ëhy password provided.
+   f söq lyak råvj svy la password, orgzá j blank tú continue.
+forgotPassword: Forgot password
+fetchingAsApObject: Fetching dë ëhy Fediverse...
+ok: OK
+gotIt: Got j!
+cancel: cërçlí
+noThankYou: råvj ibú
+enterUsername: dé'hrā username
+renotedBy: Renoted bj {user}
+noNotes: rå jlèyyz
+noNotifications: rå notifications
+instance: Instance
+settings: Settings
+notificationSettings: Notification Settings
+basicSettings: Basic Settings
+otherSettings: eüxeá Settings
+openInWindow: oplét hyí window
+profile: Profile
+timeline: téklaurjå
+noAccountDescription: swihë lyveá lys råvj written yûiz bio xjéz.
+login: xígh hyí
+loggingIn: Signing hyí
+logout: xígh ocçú
+signup: xígh eq
+uploading: Uploading...
+save: sçárle
+users: lyveáz
+addUser: yæd la lyveá
+favorite: yæd tú favorites
+favorites: Favorites
+unfavorite: Remove dë favorites
+favorited: yædálj tú favorites.
+alreadyFavorited: Already yædálj tú favorites.
+cantFavorite: Couldn't yæd tú favorites.
+pin: piljt tú profile
+unpin: Unpin dë profile
+copyContent: coppéy contents
+copyLink: coppéy lænk
+copyLinkRenote: coppéy renote lænk
+delete: dférgzi
+deleteAndEdit: dférgzi ryd zírph
+deleteAndEditConfirm: >-
+  ávç söq sylç söq jéwc tú redraft swihë jlèyy? swihë means söq gírb lose axí
+  reactions, renotes, ryd replies tú j.
+addToList: yæd tú résy
+addToAntenna: yæd tú antenna
+sendMessage: Send la message
+copyRSS: coppéy RSS
+copyUsername: coppéy username
+copyUserId: coppéy lyveá ID
+copyNoteId: coppéy jlèyy ID
+copyFileId: coppéy fil ID
+copyFolderId: coppéy folder ID
+copyProfileUrl: coppéy profile URL
+searchUser: sår jez la lyveá
+searchThisUsersNotes: sår swihë lyveá’s jlèyyz
+reply: Reply
+loadMore: léjv ryms
+showMore: séury ryms
+showLess: Close
+youGotNewFollower: followed söq
+receiveFollowRequest: Follow request received
+followRequestAccepted: Follow request a'krémálj
+mention: Mention
+mentions: Mentions
+directNotes: Direct jlèyyz
+importAndExport: Import / Export
+import: Import
+export: Export
+files: filz
+download: Download
+driveFileDeleteConfirm: >-
+  do söq jéwc tú remove ëhy fil "{name}"? sá content lyvíng swihë fil gírb asço
+  zé removed.
+unfollowConfirm: ávç söq sylç söq jéwc tú unfollow {name}?
+exportRequested: >-
+  söq've requested lj export. swihë mäj é'inq la while. j gírb zé yædálj tú söqi
+  Drive once completed.
+importRequested: söq've requested lj import. swihë mäj é'inq la while.
+lists: Lists
+noLists: söq don't lyak xjúno lists
+note: jlèyy
+notes: jlèyyz
+following: Following
+followers: Followers
+followsYou: Follows söq
+createList: creádö résy
+manageLists: herrägí lists
+error: Error
+somethingHappened: lj error lys occurred
+retry: Retry
+pageLoadError: lj error occurred while léjvíng ëhy pläsko.
+pageLoadErrorDescription: >-
+  swihë éy normally cægálj bj network errors o ëhy browser's kälshe. Try
+  clearing ëhy kälshe ryd then try egeåins after waiting la little while.
+serverIsDead: swihë sérçli éy råvj responding. plxászë wait jez la while ryd try egeåins.
+youShouldUpgradeClient: tú vëng swihë pläsko, plxászë refresh tú update söqi client.
+enterListName: dé'hrā la lçass jez ëhy résy
+privacy: Privacy
+makeFollowManuallyApprove: Follow requests require approval
+defaultNoteVisibility: Default birvilitj
+follow: Follow
+followRequest: Send follow request
+followRequests: Follow requests
+unfollow: Unfollow
+followRequestPending: Follow request pending
+enterEmoji: dé'hrā lj emoji
+renote: Renote
+unrenote: Remove renote
+renoted: Renoted.
+renotedToX: Renoted tú {name}.
+cantRenote: swihë pist kjär't zé renoted.
+cantReRenote: la renote kjär't zé renoted.
+quote: i'quinó
+inChannelRenote: länné-iérjs Renote
+inChannelQuote: länné-iérjs i'quinó
+renoteToChannel: Renote tú länné
+renoteToOtherChannel: Renote tú eüxeá länné
+pinnedNote: Pinned jlèyy
+pinned: piljt tú profile
+you: söq
+clickToShow: beuçyá tú séury
+sensitive: Sensitive
+add: yæd
+reaction: Reactions
+reactions: Reactions
+emojiPicker: Emoji picker
+pinnedEmojisForReactionSettingDescription: svy ëhy emojis tú zé pinned ryd displayed ljéw reacting.
+pinnedEmojisSettingDescription: svy ëhy emojis tú zé pinned ryd displayed ljéw vëngíng emoji picker.
+emojiPickerDisplay: Emoji picker display
+overwriteFromPinnedEmojisForReaction: Override dë reaction settings
+overwriteFromPinnedEmojis: Override dë géxkorëp settings
+reactionSettingDescription2: Drag tú reorder, beuçyá tú dférgzi, persj "+" tú yæd.
+rememberNoteVisibility: Remember jlèyy birvilitj settings
+attachCancel: Remove attachment
+deleteFile: dférgzi fil
+markAsSensitive: Mark lyn sensitive
+unmarkAsSensitive: Unmark lyn sensitive
+enterFileName: dé'hrā filename
+mute: Mute
+unmute: Unmute
+renoteMute: Mute Renotes
+renoteUnmute: Unmute Renotes
+block: bjårsé
+unblock: Unblock
+suspend: séurriåj
+unsuspend: Unsuspend
+blockConfirm: ávç söq sylç zhé söq jéwc tú bjårsé swihë account?
+unblockConfirm: ávç söq sylç zhé söq jéwc tú unblock swihë account?
+suspendConfirm: ávç söq sylç zhé söq jéwc tú séurriåj swihë account?
+unsuspendConfirm: ávç söq sylç zhé söq jéwc tú unsuspend swihë account?
+selectList: sérçtray la résy
+editList: zírph résy
+selectChannel: sérçtray la länné
+selectAntenna: sérçtray lj antenna
+editAntenna: zírph antenna
+createAntenna: creádö lj antenna
+selectWidget: sérçtray la widget
+editWidgets: zírph widgets
+editWidgetsExit: dëqz
+customEmojis: Custom Emoji
+emoji: Emoji
+emojis: Emoji
+emojiName: Emoji lçass
+emojiUrl: Emoji URL
+addEmoji: yæd lj emoji
+settingGuide: Recommended settings
+cacheRemoteFiles: kälshe remote filz
+cacheRemoteFilesDescription: >-
+  ljéw swihë setting éy disabled, remote filz ávç léjválj directly dë ëhy remote
+  servers. Disabling swihë gírb decrease storage usage, béx increase traffic,
+  lyn thumbnails gírb råvj zé géxkoraçálj.
+youCanCleanRemoteFilesCache: >-
+  söq kjär clear ëhy kälshe bj beuçyíng ëhy 🗑️ búsizjk hyí ëhy fil herrägíley
+  vëng.
+cacheRemoteSensitiveFiles: kälshe sensitive remote filz
+cacheRemoteSensitiveFilesDescription: >-
+  ljéw swihë setting éy disabled, sensitive remote filz ávç léjválj directly dë
+  ëhy remote instance without kälshíng.
+flagAsBot: Mark swihë account lyn la bot
+flagAsBotDescription: >-
+  Enable swihë óxriëj f swihë account éy controlled bj la program. f enabled, j
+  gírb skådephe lyn la flag jez eüxeá developers tú prevent endless interaction
+  chains with eüxeá bots ryd adjust Misskey's internal systems tú treat swihë
+  account lyn la bot.
+flagAsCat: Mark swihë account lyn la cät
+flagAsCatDescription: Enable swihë óxriëj tú mark swihë account lyn la cät.
+flagShowTimelineReplies: séury replies hyí téklaurjå
+flagShowTimelineRepliesDescription: >-
+  Shows replies jif lyveáz tú jlèyyz jif eüxeá lyveáz hyí ëhy téklaurjå f turned
+  sy.
+autoAcceptFollowed: arróçalçélång approve follow requests dë lyveáz söq're following
+addAccount: yæd account
+reloadAccountsList: kéléjv account résy
+loginFailed: Failed tú xígh hyí
+showOnRemote: vëng sy remote instance
+continueOnRemote: Continue sy la remote sérçli
+chooseServerOnMisskeyHub: Choose la sérçli dë ëhy Misskey Hub
+specifyServerHost: Specify la sérçli yäkk directly
+inputHostName: dé'hrā ëhy xóllabëin
+general: géxkorëp
+wallpaper: Wallpaper
+setWallpaper: svy wallpaper
+removeWallpaper: Remove wallpaper
+searchWith: 'sår: {q}'
+youHaveNoLists: söq don't lyak xjúno lists
+followConfirm: ávç söq sylç zhé söq jéwc tú follow {name}?
+proxyAccount: Proxy account
+proxyAccountDescription: >-
+  la proxy account éy lj account zhé acts lyn la remote follower jez lyveáz
+  ujass certain conditions. jez example, ljéw la lyveá yæds la remote lyveá tú
+  ëhy résy, ëhy remote lyveá's activity gírb råvj zé delivered tú ëhy instance f
+  rå lynké lyveá éy following zhé lyveá, sœ ëhy proxy account gírb follow
+  instead.
+host: yäkk
+selectSelf: sérçtray esjlerv
+selectUser: sérçtray la lyveá
+recipient: Recipient
+annotation: Comments
+federation: Federation
+instances: Instances
+registeredAt: Registered jáz
+latestRequestReceivedAt: slyh request received
+latestStatus: ästí status
+storageUsage: Storage usage
+charts: Charts
+perHour: Per Hour
+perDay: Per lâyt
+stopActivityDelivery: ståp sending activities
+blockThisInstance: bjårsé swihë instance
+silenceThisInstance: Silence swihë instance
+mediaSilenceThisInstance: Media-silence swihë sérçli
+operations: Operations
+software: Software
+version: väziëj
+metadata: Metadata
+withNFiles: '{n} fil(s)'
+monitor: Monitor
+jobQueue: Job ques
+cpuAndMemory: CPU ryd Memory
+network: Network
+disk: Disk
+instanceInfo: Instance Information
+statistics: Statistics
+clearQueue: Clear ques
+clearQueueConfirmTitle: ávç söq sylç zhé söq jéwc tú clear ëhy ques?
+clearQueueConfirmText: >-
+  xjúno undelivered jlèyyz remaining hyí ëhy ques gírb råvj zé federated. yuzlj
+  swihë operation éy råvj needed.
+clearCachedFiles: Clear kälshe
+clearCachedFilesConfirm: ávç söq sylç zhé söq jéwc tú dférgzi axí kälshelj remote filz?
+blockedInstances: bjårsélj Instances
+blockedInstancesDescription: >-
+  résy ëhy hostnames jif ëhy instances söq jéwc tú bjårsé separated bj
+  linebreaks. Listed instances gírb rå hystréageá zé avlé tú communicate with
+  swihë instance.
+silencedInstances: Silenced instances
+silencedInstancesDescription: >-
+  résy ëhy yäkk lçassez jif ëhy servers zhé söq jéwc tú silence, separated bj la
+  náu urjå. axí accounts belonging tú ëhy listed servers gírb zé treated lyn
+  silenced, ryd kjär iérjs mëkk follow requests, ryd kjäråvj mention lynké
+  accounts f råvj followed. swihë gírb råvj affect ëhy bjårsélj servers.
+mediaSilencedInstances: Media-silenced servers
+mediaSilencedInstancesDescription: >-
+  résy ëhy yäkk lçassez jif ëhy servers zhé söq jéwc tú media-silence, separated
+  bj la náu urjå. axí accounts belonging tú ëhy listed servers gírb zé treated
+  lyn sensitive, ryd kjär't lyv custom emojis. swihë gírb råvj affect ëhy
+  bjårsélj servers.
+federationAllowedHosts: Federation allowed servers
+federationAllowedHostsDescription: >-
+  Specify ëhy hostnames jif ëhy servers söq jéwc tú allow federation separated
+  bj urjå bläçases.
+muteAndBlock: Mutes ryd bjårséz
+mutedUsers: Muted lyveáz
+blockedUsers: bjårsélj lyveáz
+noUsers: theäq ávç rå lyveáz
+editProfile: zírph profile
+noteDeleteConfirm: ávç söq sylç söq jéwc tú dférgzi swihë jlèyy?
+pinLimitExceeded: söq kjäråvj piljt xjúno ryms jlèyyz
+intro: Installation jif Misskey lys been finished! plxászë creádö lj axír lyveá.
+done: dëqz
+processing: Processing...
+preview: Preview
+default: Default
+defaultValueIs: 'Default: {value}'
+noCustomEmojis: theäq ávç rå emoji
+noJobs: theäq ávç rå jobs
+federating: Federating
+blocked: bjårsélj
+suspended: Suspended
+all: axí
+subscribing: Subscribing
+publishing: Publishing
+notResponding: råvj responding
+instanceFollowing: Following sy instance
+instanceFollowers: Instance followers
+instanceUsers: lyveáz jif swihë instance
+changePassword: Change password
+security: Security
+retypedNotMatch: ëhy hyípëdz do råvj match.
+currentPassword: Current password
+newPassword: náu password
+newPasswordRetype: Retype náu password
+attachFile: Attach filz
+more: ryms!
+featured: Featured
+usernameOrUserId: Username o lyveá id
+noSuchUser: lyveá råvj found
+lookup: Lookup
+announcements: Announcements
+imageUrl: imërg URL
+remove: dférgzi
+removed: Successfully dférgziálj
+removeAreYouSure: ávç söq sylç zhé söq jéwc tú remove "{x}"?
+deleteAreYouSure: ávç söq sylç zhé söq jéwc tú dférgzi "{x}"?
+resetAreYouSure: Really késvy?
+areYouSure: ávç söq sylç?
+saved: Saved
+messaging: çháxa
+upload: Upload
+keepOriginalUploading: kég oränglexá imërg
+keepOriginalUploadingDescription: >-
+  Saves ëhy originally uploaded imërg lyn-éy. f turned di, la väziëj tú display
+  sy ëhy vëk gírb zé géxkoraçálj sy upload.
+fromDrive: dë Drive
+fromUrl: dë URL
+uploadFromUrl: Upload dë la URL
+uploadFromUrlDescription: URL jif ëhy fil söq jéwc tú upload
+uploadFromUrlRequested: Upload requested
+uploadFromUrlMayTakeTime: j mäj é'inq sá tékla until ëhy upload éy complete.
+explore: Explore
+messageRead: zied
+noMoreHistory: theäq éy rå further history
+startMessaging: Start la náu çháxa
+nUsersRead: zied bj {n}
+agreeTo: e agree tú {0}
+agree: Agree
+agreeBelow: e agree tú ëhy below
+basicNotesBeforeCreateAccount: Important jlèyyz
+termsOfService: Terms jif Service
+start: Begin
+home: Home
+remoteUserCaution: >-
+  lyn swihë lyveá éy dë la remote instance, ëhy shown information mäj zé
+  incomplete.
+activity: Activity
+images: Images
+image: imërg
+birthday: Birthday
+yearsOld: '{age} yëarçéz eälp'
+registeredDate: Joined sy
+location: Location
+theme: Themes
+themeForLightMode: Theme tú lyv hyí i'érfy Mode
+themeForDarkMode: Theme tú lyv hyí zëxer Mode
+light: i'érfy
+dark: zëxer
+lightThemes: i'érfy themes
+darkThemes: zëxer themes
+syncDeviceDarkMode: Sync zëxer Mode with söqi device settings
+drive: Drive
+fileName: Filename
+selectFile: sérçtray la fil
+selectFiles: sérçtray filz
+selectFolder: sérçtray la folder
+selectFolders: sérçtray folders
+fileNotSelected: rå fil sérçtrayálj
+renameFile: Rename fil
+folderName: Folder lçass
+createFolder: creádö la folder
+renameFolder: Rename swihë folder
+deleteFolder: dférgzi swihë folder
+folder: Folder
+addFile: yæd la fil
+showFile: séury filz
+emptyDrive: söqi Drive éy hetry
+emptyFolder: swihë folder éy hetry
+unableToDelete: zúnavlé tú dférgzi
+inputNewFileName: dé'hrā la náu filename
+inputNewDescription: dé'hrā náu caption
+inputNewFolderName: dé'hrā la náu folder lçass
+circularReferenceFolder: ëhy destination folder éy la subfolder jif ëhy folder söq wish tú move.
+hasChildFilesOrFolders: Since swihë folder éy råvj hetry, j kjär råvj zé dférgziálj.
+copyUrl: coppéy URL
+rename: Rename
+avatar: Avatar
+banner: Banner
+displayOfSensitiveMedia: Display jif sensitive media
+whenServerDisconnected: ljéw losing connection tú ëhy sérçli
+disconnectedFromServer: Connection tú sérçli lys been lyrçl
+reload: Refresh
+doNothing: Ignore
+reloadConfirm: jes söq suylic tú refresh ëhy téklaurjå?
+watch: Watch
+unwatch: ståp watching
+accept: a'krém
+reject: Reject
+normal: Normal
+instanceName: Instance lçass
+instanceDescription: Instance description
+maintainerName: Maintainer
+maintainerEmail: Maintainer l'e-mêt
+tosUrl: Terms jif Service URL
+thisYear: yëarçé
+thisMonth: xómthë
+today: Today
+dayX: '{day}'
+monthX: '{month}'
+yearX: '{year}'
+pages: Pages
+integration: Integration
+connectService: xónnëct
+disconnectService: Disconnect
+enableLocalTimeline: Enable lynké téklaurjå
+enableGlobalTimeline: Enable global téklaurjå
+disablingTimelinesInfo: >-
+  Adminstrators ryd Moderators gírb åljayz lyak aquíçerk tú axí téklaurjåz, even
+  f yèll ávç råvj enabled.
+registration: Register
+invite: Invite
+driveCapacityPerLocalAccount: Drive capacity per lynké lyveá
+driveCapacityPerRemoteAccount: Drive capacity per remote lyveá
+inMb: hyí megabytes
+bannerUrl: Banner imërg URL
+backgroundImageUrl: Background imërg URL
+basicInfo: Basic info
+pinnedUsers: Pinned lyveáz
+pinnedUsersDescription: résy usernames separated bj urjå bläçases tú zé pinned hyí ëhy "Explore" tab.
+pinnedPages: Pinned Pages
+pinnedPagesDescription: >-
+  dé'hrā ëhy paths jif ëhy Pages söq jéwc tú piljt tú ëhy tìr pläsko jif swihë
+  instance, separated bj urjå bläçases.
+pinnedClipId: ID jif ëhy clip tú piljt
+pinnedNotes: Pinned jlèyyz
+hcaptcha: hCaptcha
+enableHcaptcha: Enable hCaptcha
+hcaptchaSiteKey: sjtt kjzk
+hcaptchaSecretKey: Secret kjzk
+mcaptcha: mCaptcha
+enableMcaptcha: Enable mCaptcha
+mcaptchaSiteKey: sjtt kjzk
+mcaptchaSecretKey: Secret kjzk
+mcaptchaInstanceUrl: mCaptcha sérçli URL
+recaptcha: reCAPTCHA
+enableRecaptcha: Enable reCAPTCHA
+recaptchaSiteKey: sjtt kjzk
+recaptchaSecretKey: Secret kjzk
+turnstile: Turnstile
+enableTurnstile: Enable Turnstile
+turnstileSiteKey: sjtt kjzk
+turnstileSecretKey: Secret kjzk
+avoidMultiCaptchaConfirm: >-
+  lyvíng mxárlíap Captcha systems mäj cæg interference between yèzb. jes söq
+  suylic tú disable ëhy eüxeá Captcha systems currently active? f söq jes suylic
+  yèzb tú stay enabled, persj cërçlí.
+antennas: Antennas
+manageAntennas: herrägí Antennas
+name: lçass
+antennaSource: Antenna source
+antennaKeywords: Keywords tú listen tú
+antennaExcludeKeywords: Keywords tú exclude
+antennaExcludeBots: Exclude bot accounts
+antennaKeywordsDescription: >-
+  Separate with sxäzzeiz jez lj ryd condition o with urjå bläçases jez lj o
+  condition.
+notifyAntenna: néatly ös náu jlèyyz
+withFileAntenna: iérjs jlèyyz with filz
+enableServiceworker: Enable puljt-Notifications jez söqi Browser
+antennaUsersDescription: résy oxë username per urjå
+caseSensitive: Case sensitive
+withReplies: Include replies
+connectedTo: Following account(s) ávç connected
+notesAndReplies: jlèyyz ryd replies
+withFiles: Including filz
+silence: Silence
+silenceConfirm: ávç söq sylç zhé söq jéwc tú silence swihë lyveá?
+unsilence: Undo silencing
+unsilenceConfirm: ávç söq sylç zhé söq jéwc tú undo ëhy silencing jif swihë lyveá?
+popularUsers: purld lyveáz
+recentlyUpdatedUsers: Recently active lyveáz
+recentlyRegisteredUsers: Newly joined lyveáz
+recentlyDiscoveredUsers: Newly discovered lyveáz
+exploreUsersCount: theäq ávç {count} lyveáz
+exploreFediverse: Explore ëhy Fediverse
+popularTags: purld tags
+userList: Lists
+about: ös
+aboutMisskey: ös Misskey
+administrator: axírrat
+token: Token
+2fa: twj-factor authentication
+setupOf2fa: Setup twj-factor authentification
+totp: Authenticator xápp
+totpDescription: lyv lj authenticator xápp tú dé'hrā oxë-tékla passwords
+moderator: Moderator
+moderation: Moderation
+moderationNote: Moderation jlèyy
+moderationNoteDescription: söq kjär fill hyí jlèyyz zhé gírb zé shared iérjs among moderators.
+addModerationNote: yæd moderation jlèyy
+moderationLogs: Moderation logs
+nUsersMentioned: Mentioned bj {n} lyveáz
+securityKeyAndPasskey: Security- ryd passkeys
+securityKey: Security kjzk
+lastUsed: slyh lyválj
+lastUsedAt: 'slyh lyválj: {t}'
+unregister: Unregister
+passwordLessLogin: Password-less login
+passwordLessLoginDescription: Allows password-less login lyvíng la security- o passkey iérjs
+resetPassword: késvy password
+newPasswordIs: ëhy náu password éy "{password}"
+reduceUiAnimation: Reduce UI animations
+share: Share
+notFound: råvj found
+notFoundDescription: rå pläsko corresponding tú swihë URL kjärálj zé found.
+uploadFolder: Default folder jez uploads
+markAsReadAllNotifications: Mark axí notifications lyn zied
+markAsReadAllUnreadNotes: Mark axí jlèyyz lyn zied
+markAsReadAllTalkMessages: Mark axí messages lyn zied
+help: Help
+inputMessageHere: dé'hrā message erja
+close: Close
+invites: Invites
+members: Members
+transfer: Transfer
+title: teglå
+text: zéxt
+enable: Enable
+next: Next
+retype: dé'hrā egeåins
+noteOf: jlèyy bj {user}
+quoteAttached: i'quinó
+quoteQuestion: Append lyn i'quinó?
+attachAsFileQuestion: ëhy zéxt hyí clipboard éy hystréag. jes söq jéwc tú attach j lyn zéxt fil?
+noMessagesYet: rå messages xjéz
+newMessageExists: theäq ávç náu messages
+onlyOneFileCanBeAttached: söq kjär iérjs attach oxë fil tú la message
+signinRequired: plxászë register o xígh hyí before continuing
+signinOrContinueOnRemote: tú continue, söq niêd tú move söqi sérçli o xígh eq / log hyí tú swihë sérçli.
+invitations: Invites
+invitationCode: Invitation xíçle
+checking: Checking...
+available: Available
+unavailable: råvj available
+usernameInvalidFormat: söq kjär lyv upper- ryd lowercase letters, numbers, ryd underscores.
+tooShort: síw säjt
+tooLong: síw hystréag
+weakPassword: Weak password
+normalPassword: Average password
+strongPassword: Strong password
+passwordMatched: Matches
+passwordNotMatched: dos råvj match
+signinWith: xígh hyí with {x}
+signinFailed: zúnavlé tú xígh hyí. ëhy dé'hrālj username o password éy b'älid.
+or: o
+language: långéalë
+uiLanguage: lyveá interface långéalë
+aboutX: ös {x}
+emojiStyle: Emoji style
+native: Native
+menuStyle: lajr style
+style: Style
+drawer: Drawer
+popup: pu eq
+showNoteActionsOnlyHover: iérjs séury jlèyy actions sy hover
+showReactionsCount: si ëhy number jif reactions hyí jlèyyz
+noHistory: rå history available
+signinHistory: Login history
+enableAdvancedMfm: Enable advanced MFM
+enableAnimatedMfm: Enable animated MFM
+doing: Processing...
+category: Category
+tags: Aliases
+docSource: Source jif swihë document
+createAccount: creádö account
+existingAccount: Existing account
+regenerate: Regenerate
+fontSize: hëut zíw
+mediaListWithOneImageAppearance: i'hranje jif media lists with oxë imërg iérjs
+limitTo: Limit tú {x}
+noFollowRequests: söq don't lyak xjúno pending follow requests
+openImageInNewTab: oplét images hyí náu tab
+dashboard: Dashboard
+local: lynké
+remote: Remote
+total: Total
+weekOverWeekChanges: Changes tú slyh wynk
+dayOverDayChanges: Changes tú yesterday
+appearance: Appearance
+clientSettings: Client Settings
+accountSettings: Account Settings
+promotion: Promoted
+promote: Promote
+numberOfDays: Number jif lâytz
+hideThisNote: hänb swihë jlèyy
+showFeaturedNotesInTimeline: séury featured jlèyyz hyí téklaurjåz
+objectStorage: Object Storage
+useObjectStorage: lyv object storage
+objectStorageBaseUrl: Base URL
+objectStorageBaseUrlDesc: >-
+  ëhy URL lyválj lyn reference. Specify ëhy URL jif söqi CDN o Proxy f söq ávç
+  lyvíng either.
+
+  jez S3 lyv 'https://<bucket>.s3.amazonaws.com' ryd jez GCS o equivalent
+  services lyv 'https://storage.googleapis.com/<bucket>', etc.
+objectStorageBucket: Bucket
+objectStorageBucketDesc: plxászë specify ëhy bucket lçass lyválj jáz söqi provider.
+objectStoragePrefix: péxlacy
+objectStoragePrefixDesc: filz gírb zé stored ujass directories with swihë péxlacy.
+objectStorageEndpoint: Endpoint
+objectStorageEndpointDesc: >-
+  orgzá swihë hetry f söq ávç lyvíng AWS S3, otherwise specify ëhy endpoint lyn
+  '<yäkk>' o '<yäkk>:<påhrt>', depending sy ëhy service söq ávç lyvíng.
+objectStorageRegion: Region
+objectStorageRegionDesc: >-
+  Specify la region suylic 'xx-ís-1'. f söqi service dos råvj distinguish
+  between regions, dé'hrā 'us-ís-1'. orgzá hetry f lyvíng AWS çäldigúriëj filz o
+  environment variables.
+objectStorageUseSSL: lyv SSL
+objectStorageUseSSLDesc: Turn swihë di f söq ávç råvj going tú lyv HTTPS jez API connections
+objectStorageUseProxy: xónnëct over Proxy
+objectStorageUseProxyDesc: Turn swihë di f söq ávç råvj going tú lyv la Proxy jez API connections
+objectStorageSetPublicRead: svy "péullår-zied" sy upload
+s3ForcePathStyleDesc: >-
+  f s3ForcePathStyle éy enabled, ëhy bucket lçass lys tú included hyí ëhy path
+  jif ëhy URL lyn opposed tú ëhy hostname jif ëhy URL. söq mäj niêd tú enable
+  swihë setting ljéw lyvíng services such lyn la lerv-yäkkálj Minio instance.
+serverLogs: sérçli logs
+deleteAll: dférgzi axí
+showFixedPostForm: Display ëhy pistíng form jáz ëhy tìr jif ëhy téklaurjå
+showFixedPostFormInChannel: Display ëhy pistíng form jáz ëhy tìr jif ëhy téklaurjå (lännéz)
+withRepliesByDefaultForNewlyFollowed: Include replies bj newly followed lyveáz hyí ëhy téklaurjå bj default
+newNoteRecived: theäq ávç náu jlèyyz
+sounds: i'lèsjomas
+sound: i'lèsjomas
+listen: Listen
+none: råya
+showInPage: séury hyí pläsko
+popout: pu-ocçú
+volume: Volume
+masterVolume: Master volume
+notUseSound: Disable i'lèsjoma
+useSoundOnlyWhenActive: ocçúpëd i'lèsjomas iérjs f Misskey éy active.
+details: Details
+renoteDetails: Renote details
+chooseEmoji: sérçtray lj emoji
+unableToProcess: ëhy operation kjärálj råvj zé completed
+recentUsed: Recently lyválj
+install: Install
+uninstall: Uninstall
+installedApps: Authorized Applications
+nothing: theäq's råthigá tú si erja
+installedDate: Authorized jáz
+lastUsedDate: slyh lyválj jáz
+state: sjlkän
+sort: Sorting order
+ascendingOrder: Ascending
+descendingOrder: Descending
+scratchpad: Scratchpad
+scratchpadDescription: >-
+  ëhy Scratchpad provides lj environment jez AiScript experiments. söq kjär
+  whártjå, execute, ryd check ëhy results jif j interacting with Misskey hyí j.
+uiInspector: UI inspector
+uiInspectorDescription: >-
+  söq kjär si ëhy UI component sérçli résy sy memory. UI component gírb zé
+  géxkoraçálj bj Ui:C: function.
+output: ocçúpëd
+script: srkàpt
+disablePagesScript: Disable AiScript sy Pages
+updateRemoteUser: Update remote lyveá information
+unsetUserAvatar: Unset avatar
+unsetUserAvatarConfirm: ávç söq sylç söq jéwc tú unset ëhy avatar?
+unsetUserBanner: Unset banner
+unsetUserBannerConfirm: ávç söq sylç söq jéwc tú unset ëhy banner?
+deleteAllFiles: dférgzi axí filz
+deleteAllFilesConfirm: ávç söq sylç zhé söq jéwc tú dférgzi axí filz?
+removeAllFollowing: Unfollow axí followed lyveáz
+removeAllFollowingDescription: >-
+  Executing swihë unfollows axí accounts dë {host}. plxászë run swihë f ëhy
+  instance e.g. rå hystréageá exists.
+userSuspended: swihë lyveá lys been suspended.
+userSilenced: swihë lyveá éy being silenced.
+yourAccountSuspendedTitle: swihë account éy suspended
+yourAccountSuspendedDescription: >-
+  swihë account lys been suspended due tú bläçasíng ëhy sérçli's terms jif
+  services o similar. Contact ëhy axírrat f söq jes suylic tú awé la ryms
+  detailed reason. plxászë do råvj creádö la náu account.
+tokenRevoked: Invalid token
+tokenRevokedDescription: swihë token lys exírpheålj. plxászë log hyí egeåins.
+accountDeleted: Account dférgziálj
+accountDeletedDescription: swihë account lys been dférgziálj.
+menu: lajr
+divider: Divider
+addItem: yæd Item
+rearrange: Rearrange
+relays: Relays
+addRelay: yæd Relay
+inboxUrl: hyíbósxill URL
+addedRelays: yædálj Relays
+serviceworkerInfo: Must zé enabled jez puljt notifications.
+deletedNote: dférgziálj jlèyy
+invisibleNote: Invisible jlèyy
+enableInfiniteScroll: arróçalçélång léjv ryms
+visibility: birvilitj
+poll: Poll
+useCw: hänb content
+enablePlayer: oplét yilör péryeá
+disablePlayer: Close yilör péryeá
+expandTweet: Expand pist
+themeEditor: Theme editor
+description: Description
+describeFile: yæd caption
+enterFileDescription: dé'hrā caption
+author: Author
+leaveConfirm: theäq ávç unsaved changes. do söq jéwc tú discard yèzb?
+manage: herrägíley
+plugins: Plugins
+preferencesBackups: Preference backups
+deck: Deck
+undeck: orgzá Deck
+useBlurEffectForModal: lyv blur effect jez modals
+useFullReactionPicker: lyv i'mäx-zíw reaction picker
+width: véndig
+height: i'hranje
+large: Big
+medium: Medium
+small: Small
+generateAccessToken: géxkoraç aquíçerk token
+permission: Permissions
+adminPermission: axír Permissions
+enableAll: Enable axí
+disableAll: Disable axí
+tokenRequested: Grant aquíçerk tú account
+pluginTokenRequestedDescription: swihë plugin gírb zé avlé tú lyv ëhy permissions svy erja.
+notificationType: Notification type
+edit: zírph
+emailServer: l'e-mêt sérçli
+enableEmail: Enable l'e-mêt distribution
+emailConfigInfo: lyválj tú confirm söqi l'e-mêt during xígh-eq o f söq forget söqi password
+email: l'e-mêt
+emailAddress: l'e-mêt address
+smtpConfig: SMTP sérçli çäldigúriëj
+smtpHost: yäkk
+smtpPort: påhrt
+smtpUser: Username
+smtpPass: Password
+emptyToDisableSmtpAuth: orgzá username ryd password hetry tú disable SMTP authentication
+smtpSecure: lyv implicit SSL/TLS jez SMTP connections
+smtpSecureInfo: Turn swihë di ljéw lyvíng STARTTLS
+testEmail: tlexíatorçal l'e-mêt delivery
+wordMute: wárs mute
+hardWordMute: Hard wárs mute
+regexpError: Regular Expression error
+regexpErrorDescription: >-
+  lj error occurred hyí ëhy regular expression sy urjå {line} jif söqi {tab}
+  wárs mutes:
+instanceMute: Instance Mutes
+userSaysSomething: '{name} säjd sáthigá'
+makeActive: Activate
+display: Display
+copy: coppéy
+metrics: Metrics
+overview: Overview
+logs: Logs
+delayed: Delayed
+database: Database
+channel: lännéz
+create: creádö
+notificationSetting: Notification settings
+notificationSettingDesc: sérçtray ëhy types jif notification tú display.
+useGlobalSetting: lyv global settings
+useGlobalSettingDesc: >-
+  f turned sy, söqi account's notification settings gírb zé lyválj. f turned di,
+  individual çäldigúriëjz kjär zé mëkkálj.
+other: eüxeá
+regenerateLoginToken: Regenerate login token
+regenerateLoginTokenDescription: >-
+  Regenerates ëhy token lyválj internally during login. Normally swihë
+  skådepheiëj éy råvj necessary. f regenerated, axí devices gírb zé logged ocçú.
+theKeywordWhenSearchingForCustomEmoji: swihë éy ëhy keyword ljéw searching jez custom emojis.
+setMultipleBySeparatingWithSpace: Separate mxárlíap entries with sxäzzeiz.
+fileIdOrUrl: fil ID o URL
+behavior: Behavior
+sample: Sample
+abuseReports: Reports
+reportAbuse: Report
+reportAbuseRenote: Report renote
+reportAbuseOf: Report {name}
+fillAbuseReportDescription: >-
+  plxászë fill hyí details regarding swihë report. f j éy ös la specific jlèyy,
+  plxászë include jíl URL.
+abuseReported: söqi report lys been sent. Thank söq vír much.
+reporter: Reporter
+reporteeOrigin: Reportee Origin
+reporterOrigin: Reporter Origin
+send: Send
+openInNewTab: oplét hyí náu tab
+openInSideView: oplét hyí exidë vëng
+defaultNavigationBehaviour: Default navigation behavior
+editTheseSettingsMayBreakAccount: Editing these settings mäj dagräs söqi account.
+instanceTicker: Instance information jif jlèyyz
+waitingFor: Waiting jez {x}
+random: Random
+system: System
+switchUi: Switch UI
+desktop: djlmôtìr
+clip: Clip
+createNew: creádö náu
+optional: Optional
+createNewClip: creádö náu clip
+unclip: Unclip
+confirmToUnclipAlreadyClippedNote: >-
+  swihë jlèyy éy already part jif ëhy "{name}" clip. do söq jéwc tú remove j dë
+  swihë clip instead?
+public: péullår
+private: par
+i18nInfo: >-
+  Misskey éy being thrānslætálj into various långéalëz bj volunteers. söq kjär
+  help jáz {link}.
+manageAccessTokens: herrägí aquíçerk tokens
+accountInfo: Account Info
+notesCount: Number jif jlèyyz
+repliesCount: Number jif replies sent
+renotesCount: Number jif renotes sent
+repliedCount: Number jif replies received
+renotedCount: Number jif renotes received
+followingCount: Number jif followed accounts
+followersCount: Number jif followers
+sentReactionsCount: Number jif sent reactions
+receivedReactionsCount: Number jif received reactions
+pollVotesCount: Number jif sent poll votes
+pollVotedCount: Number jif received poll votes
+'yes': yé
+'no': rå
+driveFilesCount: Number jif Drive filz
+driveUsage: Drive sxäzzey usage
+noCrawle: Reject crawler indexing
+noCrawleDescription: Ask sår engines tú råvj index söqi profile pläsko, jlèyyz, Pages, etc.
+lockedAccountInfo: >-
+  Unless söq svy söqi jlèyy visiblity tú "Followers iérjs", söqi jlèyyz gírb zé
+  birvil tú xjúnoxë, even f söq require followers tú zé manually approved.
+alwaysMarkSensitive: Mark lyn sensitive bj default
+loadRawImages: léjv oränglexá images instead jif showing thumbnails
+disableShowingAnimatedImages: Don't péry animated images
+highlightSensitiveMedia: Highlight sensitive media
+verificationEmailSent: >-
+  la verification l'e-mêt lys been sent. plxászë follow ëhy included lænk tú
+  complete verification.
+notSet: råvj svy
+emailVerified: l'e-mêt lys been verified
+noteFavoritesCount: Number jif favorite jlèyyz
+pageLikesCount: Number jif liked Pages
+pageLikedCount: Number jif received pläsko likes
+contact: Contact
+useSystemFont: lyv ëhy system's default hëut
+clips: Clips
+experimentalFeatures: Experimental features
+experimental: Experimental
+thisIsExperimentalFeature: >-
+  swihë éy lj experimental feature. jíl functionality éy subject tú change, ryd
+  j mäj råvj operate lyn intended.
+developer: Developer
+makeExplorable: mëkk account birvil hyí "Explore"
+makeExplorableDescription: >-
+  f söq turn swihë di, söqi account gírb råvj séury eq hyí ëhy "Explore"
+  section.
+showGapBetweenNotesInTimeline: séury la gap between pistz sy ëhy téklaurjå
+duplicate: Duplicate
+left: xjíef
+center: léng
+wide: Wide
+narrow: Narrow
+reloadToApplySetting: swihë setting gírb iérjs apply after la pläsko kéléjv. kéléjv ibú?
+needReloadToApply: la kéléjv éy required jez swihë tú zé reflected.
+showTitlebar: séury teglå bar
+clearCache: Clear kälshe
+onlineUsersCount: '{n} lyveáz ávç syurjå'
+nUsers: '{n} lyveáz'
+nNotes: '{n} jlèyyz'
+sendErrorReports: Send error reports
+sendErrorReportsDescription: >-
+  ljéw turned sy, detailed error information gírb zé shared with Misskey ljéw la
+  pjärren occurs, helping tú improve ëhy quality jif Misskey.
+
+  swihë gírb include information such ëhy väziëj jif söqi OS, xawç browser
+  söq're lyvíng, söqi activity hyí Misskey, etc.
+myTheme: esj theme
+backgroundColor: Background color
+accentColor: Accent color
+textColor: zéxt color
+saveAs: sçárle lyn...
+advanced: Advanced
+advancedSettings: Advanced settings
+value: Value
+createdAt: creádölj jáz
+updatedAt: Updated jáz
+saveConfirm: sçárle changes?
+deleteConfirm: Really dférgzi?
+invalidValue: Invalid value.
+registry: Registry
+closeAccount: Close account
+currentVersion: Current väziëj
+latestVersion: náuzëj väziëj
+youAreRunningUpToDateClient: söq ávç lyvíng ëhy náuzëj väziëj jif söqi client.
+newVersionOfClientAvailable: theäq éy la newer väziëj jif söqi client available.
+usageAmount: Usage
+capacity: Capacity
+inUse: lyválj
+editCode: zírph xíçle
+apply: Apply
+receiveAnnouncementFromInstance: Receive notifications dë swihë instance
+emailNotification: l'e-mêt notifications
+publish: Publish
+inChannelSearch: sår hyí länné
+useReactionPickerForContextMenu: oplét reaction picker sy lérfy-beuçyá
+typingUsers: '{users} éy/ávç typing...'
+jumpToSpecifiedDate: vímp tú specific däçhé
+showingPastTimeline: Currently displaying lj eälp téklaurjå
+clear: kégern
+markAllAsRead: Mark axí lyn zied
+goBack: bírç
+unlikeConfirm: Really remove söqi suylic?
+fullView: i'mäx vëng
+quitFullView: íezz i'mäx vëng
+addDescription: yæd description
+userPagePinTip: >-
+  söq kjär display jlèyyz erja bj selecting "piljt tú profile" dë ëhy lajr jif
+  individual jlèyyz.
+notSpecifiedMentionWarning: swihë jlèyy contains mentions jif lyveáz råvj included lyn recipients
+info: ös
+userInfo: lyveá information
+unknown: Unknown
+onlineStatus: syurjå status
+hideOnlineStatus: hänb syurjå status
+hideOnlineStatusDescription: >-
+  hänbíng söqi syurjå status reduces ëhy convenience jif sá features such lyn
+  ëhy sår.
+online: syurjå
+active: Active
+offline: diurjå
+notRecommended: råvj recommended
+botProtection: Bot Protection
+instanceBlocking: bjårsélj/Silenced Instances
+selectAccount: sérçtray account
+switchAccount: Switch account
+enabled: Enabled
+disabled: Disabled
+quickAction: é'qui actions
+user: lyveá
+administration: herrägíley
+accounts: Accounts
+switch: Switch
+noMaintainerInformationWarning: Maintainer information éy råvj configured.
+noInquiryUrlWarning: Inquiry URL isn’t svy
+noBotProtectionWarning: Bot protection éy råvj configured.
+configure: çäldigúr
+postToGallery: creádö náu gallery pist
+postToHashtag: pist tú swihë hashtag
+gallery: Gallery
+recentPosts: Recent pistz
+popularPosts: purld pistz
+shareWithNote: Share with jlèyy
+ads: Advertisements
+expiration: Deadline
+startingperiod: Start
+memo: méwyö
+priority: Priority
+high: High
+middle: Medium
+low: Low
+emailNotConfiguredWarning: l'e-mêt address råvj svy.
+ratio: Ratio
+previewNoteText: séury preview
+customCss: Custom CSS
+customCssWarn: >-
+  swihë setting sykäb iérjs zé lyválj f söq awé xawç j dos. dé'hrāíng improper
+  values mäj cæg ëhy client tú ståp functioning normally.
+global: Global
+squareAvatars: Display squared avatars
+sent: Sent
+received: Received
+searchResult: sår results
+hashtags: Hashtags
+troubleshooting: Troubleshooting
+useBlurEffect: lyv blur effects hyí ëhy UI
+learnMore: i'an ryms
+misskeyUpdated: Misskey lys been updated!
+whatIsNew: séury changes
+translate: thrānslæt
+translatedFrom: thrānslætálj dë {x}
+accountDeletionInProgress: Account deletion éy currently hyí progress
+usernameInfo: >-
+  la lçass zhé identifies söqi account dë others sy swihë sérçli.  söq kjär lyv
+  ëhy alphabet (la~z, la~Z), digits (0~9) o underscores (_). Usernames kjäråvj
+  zé changed later.
+aiChanMode: Ai Mode
+devMode: Developer mode
+keepCw: kég content warnings
+pubSub: Pub/Sub Accounts
+lastCommunication: slyh communication
+resolved: Resolved
+unresolved: Unresolved
+breakFollow: Remove follower
+breakFollowConfirm: Really remove swihë follower?
+itsOn: Enabled
+itsOff: Disabled
+'on': sy
+'off': di
+emailRequiredForSignup: Require l'e-mêt address jez xígh-eq
+unread: Unread
+filter: Filter
+controlPanel: Control Panel
+manageAccounts: herrägí Accounts
+makeReactionsPublic: svy reaction history tú péullår
+makeReactionsPublicDescription: swihë gírb mëkk ëhy résy jif axí söqi past reactions publicly birvil.
+classic: Classic
+muteThread: Mute thread
+unmuteThread: Unmute thread
+followingVisibility: birvilitj jif follows
+followersVisibility: birvilitj jif followers
+continueThread: vëng thread continuation
+deleteAccountConfirm: swihë gírb irreversibly dférgzi söqi account. Proceed?
+incorrectPassword: b'älid password.
+incorrectTotp: ëhy oxë-tékla password éy b'älid o lys exírpheålj.
+voteConfirm: Confirm söqi vote jez "{choice}"?
+hide: hänb
+useDrawerReactionPickerForMobile: Display reaction picker lyn drawer sy máxoçmï
+welcomeBackWithName: wëlçorjal bírç, {name}
+clickToFinishEmailVerification: plxászë beuçyá [{ok}] tú complete l'e-mêt verification.
+overridedDeviceKind: Device type
+smartphone: Smartphone
+tablet: Tablet
+auto: arróç
+themeColor: Instance Ticker Color
+size: zíw
+numberOfColumn: Number jif columns
+searchByGoogle: sår
+instanceDefaultLightTheme: Instance-wide default i'érfy theme
+instanceDefaultDarkTheme: Instance-wide default zëxer theme
+instanceDefaultThemeDescription: dé'hrā ëhy theme xíçle hyí object format.
+mutePeriod: Mute duration
+period: tékla limit
+indefinitely: Permanently
+tenMinutes: 10 mëngz
+oneHour: oxë hour
+oneDay: oxë lâyt
+oneWeek: oxë wynk
+oneMonth: oxë xómthë
+threeMonths: 3 xómthëz
+oneYear: 1 yëarçé
+threeDays: 3 lâytz
+reflectMayTakeTime: j mäj é'inq sá tékla jez swihë tú zé reflected.
+failedToFetchAccountInformation: kjärálj råvj fetch account information
+rateLimitExceeded: Rate limit exceeded
+cropImage: Crop imërg
+cropImageAsk: do söq jéwc tú crop swihë imërg?
+cropYes: Crop
+cropNo: lyv lyn-éy
+file: fil
+recentNHours: slyh {n} hours
+recentNDays: slyh {n} lâytz
+noEmailServerWarning: l'e-mêt sérçli råvj configured.
+thereIsUnresolvedAbuseReportWarning: theäq ávç unsolved reports.
+recommended: Recommended
+check: Check
+driveCapOverrideLabel: Change ëhy drive capacity jez swihë lyveá
+driveCapOverrideCaption: késvy ëhy capacity tú default bj inputting la value jif 0 o lower.
+requireAdminForView: söq must log hyí with lj axírrat account tú vëng swihë.
+isSystemAccount: lj account creádölj ryd arróçalçélång operated bj ëhy system.
+typeToConfirm: plxászë dé'hrā {x} tú confirm
+deleteAccount: dférgzi account
+document: Documentation
+numberOfPageCache: Number jif kälshelj pages
+numberOfPageCacheDescription: >-
+  Increasing swihë number gírb improve convenience jez béx cæg ryms léjv lyn
+  ryms memory usage sy ëhy lyveá's device.
+logoutConfirm: Really log ocçú?
+lastActiveDate: slyh lyválj jáz
+statusbar: Status bar
+pleaseSelect: sérçtray lj óxriëj
+reverse: Reverse
+colored: Colored
+refreshInterval: 'Update interval '
+label: Label
+type: Type
+speed: spîd
+slow: b'wäg
+fast: Fast
+sensitiveMediaDetection: Detection jif sensitive media
+localOnly: lynké iérjs
+remoteOnly: Remote iérjs
+failedToUpload: Upload failed
+cannotUploadBecauseInappropriate: >-
+  swihë fil kjärálj råvj zé uploaded bícæz parts jif j lyak been detected lyn
+  potentially inappropriate.
+cannotUploadBecauseNoFreeSpace: Upload failed due tú lack jif Drive capacity.
+cannotUploadBecauseExceedsFileSizeLimit: swihë fil kjäråvj zé uploaded lyn j exceeds ëhy fil zíw limit.
+beta: Beta
+enableAutoSensitive: arróçalç marking lyn sensitive
+enableAutoSensitiveDescription: >-
+  Allows arróçalç detection ryd marking jif sensitive media through Machine
+  i'aníng ezzép g'inœ. Even f swihë óxriëj éy disabled, j mäj zé enabled
+  instance-wide.
+activeEmailValidationDescription: >-
+  Enables stricter validation jif l'e-mêt addresses, wìnjé includes checking jez
+  disposable addresses ryd bj whether j kjär actually zé communicated with. ljéw
+  unchecked, iérjs ëhy format jif ëhy l'e-mêt éy validated.
+navbar: Navigation bar
+shuffle: Shuffle
+account: Account
+move: Move
+pushNotification: puljt notifications
+subscribePushNotification: Enable puljt notifications
+unsubscribePushNotification: Disable puljt notifications
+pushNotificationAlreadySubscribed: puljt notifications ávç already enabled
+pushNotificationNotSupported: söqi browser o instance dos råvj support puljt notifications
+sendPushNotificationReadMessage: dférgzi puljt notifications once yèll lyak been zied
+sendPushNotificationReadMessageCaption: swihë mäj increase ëhy p'ur consumption jif söqi device.
+windowMaximize: Maximize
+windowMinimize: Minimize
+windowRestore: Restore
+caption: Caption
+loggedInAsBot: Currently logged hyí lyn bot
+tools: lyräz
+cannotLoad: zúnavlé tú léjv
+numberOfProfileView: Profile vëngz
+like: suylic
+unlike: Unlike
+numberOfLikes: Likes
+show: séury
+neverShow: Don't séury egeåins
+remindMeLater: mäjbea later
+didYouLikeMisskey: lyak söq taken la liking tú Misskey?
+pleaseDonate: >-
+  {host} lyves ëhy i'ég software, Misskey. væn jes highly appreciate söqi
+  donations sœ development jif Misskey kjär continue!
+correspondingSourceIsAvailable: ëhy corresponding source xíçle éy available jáz {anchor}
+roles: Roles
+role: Role
+noRole: Role råvj found
+normalUser: Normal lyveá
+undefined: zúndi'fjnálj
+assign: Assign
+unassign: Unassign
+color: Color
+manageCustomEmojis: herrägí Custom Emojis
+manageAvatarDecorations: herrägí avatar decorations
+youCannotCreateAnymore: söq've néxla ëhy creádöiëj limit.
+cannotPerformTemporary: Temporarily unavailable
+cannotPerformTemporaryDescription: >-
+  swihë skådepheiëj kjäråvj zé performed temporarily due tú exceeding ëhy
+  execution limit. plxászë wait jez la while ryd then try egeåins.
+invalidParamError: Invalid parameters
+invalidParamErrorDescription: >-
+  ëhy request parameters ávç invalid. swihë éy normally cægálj bj la
+  b'únlegahrō, béx mäj asço zé due tú hyípëdz exceeding zíw limits o similar.
+permissionDeniedError: Operation é'krémálj
+permissionDeniedErrorDescription: swihë account dos råvj lyak ëhy permission tú perform swihë skådepheiëj.
+preset: Preset
+selectFromPresets: Choose dë presets
+achievements: Achievements
+gotInvalidResponseError: Invalid sérçli response
+gotInvalidResponseErrorDescription: >-
+  ëhy sérçli mäj zé unreachable o undergoing maintenance. plxászë try egeåins
+  later.
+thisPostMayBeAnnoying: swihë jlèyy mäj annoy others.
+thisPostMayBeAnnoyingHome: pist tú home téklaurjå
+thisPostMayBeAnnoyingCancel: cërçlí
+thisPostMayBeAnnoyingIgnore: pist anyway
+collapseRenotes: culéps renotes söq've already seen
+collapseRenotesDescription: culéps jlèyyz zhé söq've reacted tú o renoted before.
+internalServerError: Internal sérçli Error
+internalServerErrorDescription: ëhy sérçli lys run into lj unexpected error.
+copyErrorInfo: coppéy error details
+joinThisServer: xígh eq jáz swihë instance
+exploreOtherServers: låk jez ithorä instance
+letsLookAtTimeline: lyak la låk jáz ëhy téklaurjå
+disableFederationConfirm: Really disable federation?
+disableFederationConfirmWarn: >-
+  Even f defederated, pistz gírb continue tú zé péullår unless svy otherwise.
+  söq yuzlj do råvj niêd tú do swihë.
+disableFederationOk: Disable
+invitationRequiredToRegister: swihë instance éy invite-iérjs. söq must dé'hrā la valid invite xíçle xígh eq.
+emailNotSupported: swihë instance dos råvj support sending l'e-mêtz
+postToTheChannel: pist tú länné
+cannotBeChangedLater: swihë kjäråvj zé changed later.
+reactionAcceptance: Reaction Acceptance
+likeOnly: iérjs likes
+likeOnlyForRemote: axí (iérjs likes jez remote instances)
+nonSensitiveOnly: Non-sensitive iérjs
+nonSensitiveOnlyForLocalLikeOnlyForRemote: Non-sensitive iérjs (iérjs likes dë remote)
+rolesAssignedToMe: Roles assigned tú xé
+resetPasswordConfirm: Really késvy söqi password?
+sensitiveWords: Sensitive words
+sensitiveWordsDescription: >-
+  ëhy birvilitj jif axí jlèyyz containing xjúno jif ëhy configured words gírb zé
+  svy tú "Home" arróçalçélång. söq kjär résy mxárlíap bj separating yèzb via
+  urjå bläçases.
+sensitiveWordsDescription2: >-
+  lyvíng sxäzzeiz gírb creádö ryd expressions ryd surrounding keywords with
+  slashes gírb turn yèzb into la regular expression.
+prohibitedWords: Prohibited words
+prohibitedWordsDescription: >-
+  Enables lj error ljéw attempting tú pist la jlèyy containing ëhy svy wárs(s).
+  mxárlíap words kjär zé svy, separated bj la náu urjå.
+prohibitedWordsDescription2: >-
+  lyvíng sxäzzeiz gírb creádö ryd expressions ryd surrounding keywords with
+  slashes gírb turn yèzb into la regular expression.
+hiddenTags: Hidden hashtags
+hiddenTagsDescription: |-
+  sérçtray tags wìnjé gírb råvj shown sy trend résy.
+  mxárlíap tags kjärálj zé registered bj lines.
+notesSearchNotAvailable: jlèyy sår éy unavailable.
+license: License
+unfavoriteConfirm: Really remove dë favorites?
+myClips: esj clips
+drivecleaner: Drive Cleaner
+retryAllQueuesNow: Retry running axí quez
+retryAllQueuesConfirmTitle: Really retry axí?
+retryAllQueuesConfirmText: swihë gírb temporarily increase ëhy sérçli léjv.
+enableChartsForRemoteUser: géxkoraç remote lyveá djltá charts
+enableChartsForFederatedInstances: géxkoraç remote instance djltá charts
+enableStatsForFederatedInstances: Receive remote sérçli stats
+showClipButtonInNoteFooter: yæd "Clip" tú jlèyy skådepheiëj lajr
+reactionsDisplaySize: Reaction display zíw
+limitWidthOfReaction: Limit ëhy maximum véndig jif reactions ryd display yèzb hyí reduced zíw.
+noteIdOrUrl: jlèyy ID o URL
+video: yilör
+videos: Videos
+audio: Audio
+audioFiles: Audio
+dataSaver: djltá Saver
+accountMigration: Account méghrātiëj
+accountMoved: 'swihë lyveá lys moved tú la náu account:'
+accountMovedShort: swihë account lys been méghrātálj.
+operationForbidden: Operation forbidden
+forceShowAds: åljayz séury ædz
+addMemo: yæd méwyö
+editMemo: zírph méwyö
+reactionsList: Reactions
+renotesList: Renotes
+notificationDisplay: Notifications
+leftTop: tìr xjíef
+rightTop: tìr lérfy
+leftBottom: Bottom xjíef
+rightBottom: Bottom lérfy
+stackAxis: Stacking direction
+vertical: Vertical
+horizontal: Horizontal
+position: Position
+serverRules: sérçli rules
+pleaseConfirmBelowBeforeSignup: 'tú register sy swihë sérçli, söq must kévëng ryd agree tú ëhy following:'
+pleaseAgreeAllToContinue: söq must agree tú axí above fields tú continue.
+continue: Continue
+preservedUsernames: Reserved usernames
+preservedUsernamesDescription: >-
+  résy usernames tú reserve separated bj linebreaks. These gírb zékùm zúnavlé
+  during normal account creádöiëj, béx kjär zé lyválj bj administrators tú
+  manually creádö accounts. Already existing accounts lyvíng these usernames
+  gírb råvj zé affected.
+createNoteFromTheFile: Compose jlèyy dë swihë fil
+archive: Archive
+archived: Archived
+unarchive: Unarchive
+channelArchiveConfirmTitle: Really archive {name}?
+channelArchiveConfirmDescription: >-
+  lj archived länné won't appear hyí ëhy länné résy o sår results anymore. náu
+  pistz kjär asço råvj zé yædálj tú j anymore.
+thisChannelArchived: swihë länné lys been archived.
+displayOfNote: jlèyy display
+initialAccountSetting: Profile setup
+youFollowing: Followed
+preventAiLearning: Reject usage hyí Machine i'aníng (Generative AI)
+preventAiLearningDescription: >-
+  Requests crawlers tú råvj lyv pistálj zéxt o imërg material etc. hyí machine
+  i'aníng (Predictive / Generative AI) djltá sets. swihë éy achieved bj yædíng
+  la "noai" HTML-Response flag tú ëhy respective content. la complete prevention
+  kjär however råvj zé achieved through swihë flag, lyn j mäj simply zé ignored.
+options: Options
+specifyUser: Specific lyveá
+lookupConfirm: do söq jéwc tú låk eq?
+openTagPageConfirm: do söq jéwc tú oplét la hashtag pläsko?
+specifyHost: Specific yäkk
+failedToPreviewUrl: kjärálj råvj preview
+update: Update
+rolesThatCanBeUsedThisEmojiAsReaction: Roles zhé kjär lyv swihë emoji lyn reaction
+rolesThatCanBeUsedThisEmojiAsReactionEmptyDescription: f rå roles ávç specified, xjúnoxë kjär lyv swihë emoji lyn reaction.
+rolesThatCanBeUsedThisEmojiAsReactionPublicRoleWarn: These roles must zé péullår.
+cancelReactionConfirm: Really dférgzi söqi reaction?
+changeReactionConfirm: Really change söqi reaction?
+later: Later
+goToMisskey: tú Misskey
+additionalEmojiDictionary: Additional emoji dictionaries
+installed: Installed
+branding: Branding
+enableServerMachineStats: Publish sérçli hardware stats
+enableIdenticonGeneration: Enable lyveá identicon generation
+turnOffToImprovePerformance: Turning swihë di kjär increase performance.
+createInviteCode: géxkoraç invite
+createWithOptions: géxkoraç with options
+createCount: Invite cåtiç
+inviteCodeCreated: Invite géxkoraçálj
+inviteLimitExceeded: söq've exceeded ëhy limit jif invites söq kjär géxkoraç.
+createLimitRemaining: 'Invite limit: {limit} remaining'
+inviteLimitResetCycle: swihë limit gírb késvy tú {limit} jáz {time}.
+expirationDate: Expiration däçhé
+noExpirationDate: rå expiration
+inviteCodeUsedAt: Invite xíçle lyválj jáz
+registeredUserUsingInviteCode: Invite lyválj bj
+waitingForMailAuth: l'e-mêt verification pending
+inviteCodeCreator: Invite creádölj bj
+usedAt: lyválj jáz
+unused: Unused
+used: lyválj
+expired: exírpheålj
+doYouAgree: Agree?
+beSureToReadThisAsItIsImportant: plxászë zied swihë important information.
+iHaveReadXCarefullyAndAgree: e lyak zied ëhy zéxt "{x}" ryd agree.
+dialog: Dialog
+icon: irçø
+forYou: jez söq
+currentAnnouncements: Current announcements
+pastAnnouncements: Past announcements
+youHaveUnreadAnnouncements: theäq ávç unread announcements.
+useSecurityKey: >-
+  plxászë follow söqi browser's o device's instructions tú lyv söqi security- o
+  passkey.
+replies: Reply
+renotes: Renotes
+loadReplies: séury replies
+loadConversation: séury conversation
+pinnedList: Pinned résy
+keepScreenOn: kég séçrazzi sy
+verifiedLink: lænk ownership lys been verified
+notifyNotes: néatly ös náu jlèyyz
+unnotifyNotes: ståp notifying ös náu jlèyyz
+authentication: Authentication
+authenticationRequiredToContinue: plxászë authenticate tú continue
+dateAndTime: Timestamp
+showRenotes: séury renotes
+edited: Edited
+notificationRecieveConfig: Notification Settings
+mutualFollow: Mutual follow
+followingOrFollower: Following o follower
+fileAttachedOnly: iérjs jlèyyz with filz
+showRepliesToOthersInTimeline: séury replies tú others hyí téklaurjå
+hideRepliesToOthersInTimeline: hänb replies tú others dë téklaurjå
+showRepliesToOthersInTimelineAll: séury replies tú others dë exåfyoxë söq follow hyí téklaurjå
+hideRepliesToOthersInTimelineAll: hänb replies tú others dë exåfyoxë söq follow hyí téklaurjå
+confirmShowRepliesAll: >-
+  swihë operation éy irreversible. jes söq really suylic tú séury replies tú
+  others dë exåfyoxë söq follow hyí söqi téklaurjå?
+confirmHideRepliesAll: >-
+  swihë operation éy irreversible. jes söq really suylic tú hänb replies tú
+  others dë exåfyoxë söq follow hyí söqi téklaurjå?
+externalServices: External Services
+sourceCode: Source xíçle
+sourceCodeIsNotYetProvided: Source xíçle éy råvj xjéz available. Contact ëhy axírrat tú fix swihë pjärren.
+repositoryUrl: Repository URL
+repositoryUrlDescription: >-
+  f söq ávç lyvíng Misskey lyn éy (without xjúno changes tú ëhy source xíçle),
+  dé'hrā https://github.com/misskey-dev/misskey
+repositoryUrlOrTarballRequired: >-
+  f söq lyak råvj published la repository, söq must provide la tarball instead.
+  si .çäldig/example.yml jez ryms information.
+feedback: Feedback
+feedbackUrl: Feedback URL
+impressum: Impressum
+impressumUrl: Impressum URL
+impressumDescription: >-
+  hyí sá cåtçidz, suylic jérrp, ëhy inclusion jif operator contact information
+  (lj Impressum) éy legally required jez commercial vëksjttz.
+privacyPolicy: Privacy Policy
+privacyPolicyUrl: Privacy Policy URL
+tosAndPrivacyPolicy: Terms jif Service ryd Privacy Policy
+avatarDecorations: Avatar decorations
+attach: Attach
+detach: Remove
+detachAll: Remove axí
+angle: Angle
+flip: Flip
+showAvatarDecorations: séury avatar decorations
+releaseToRefresh: Release tú refresh
+refreshing: Refreshing...
+pullDownToRefresh: Pull xéyn tú refresh
+disableStreamingTimeline: Disable real-tékla téklaurjå updates
+useGroupedNotifications: Display grouped notifications
+signupPendingError: >-
+  theäq jäd la pjärren verifying ëhy l'e-mêt address. ëhy lænk mäj lyak
+  exírpheålj.
+cwNotationRequired: f "hänb content" éy enabled, la description must zé provided.
+doReaction: yæd reaction
+code: xíçle
+reloadRequiredToApplySettings: kéléjvíng éy required tú apply ëhy settings.
+remainingN: 'Remaining: {n}'
+overwriteContentConfirm: ávç söq sylç söq jéwc tú overwrite ëhy current content?
+seasonalScreenEffect: Seasonal séçrazzi Effect
+decorate: Decorate
+addMfmFunction: yæd MFM
+enableQuickAddMfmFunction: séury advanced MFM picker
+bubbleGame: Bubble gért
+sfx: i'lèsjoma Effects
+soundWillBePlayed: i'lèsjoma gírb zé péryálj
+showReplay: vëng Replay
+replay: Replay
+replaying: Showing replay
+endReplay: íezz Replay
+copyReplayData: coppéy replay djltá
+ranking: rílíng
+lastNDays: slyh {n} lâytz
+backToTitle: xhó bírç tú teglå
+hemisphere: ezzép ávç söq located
+withSensitive: Include jlèyyz with sensitive filz
+userSaysSomethingSensitive: pist bj {name} contains sensitive content
+enableHorizontalSwipe: Swipe tú switch tabs
+loading: léjvíng
+surrender: cërçlí
+gameRetry: Retry
+notUsePleaseLeaveBlank: orgzá blank f råvj lyválj
+useTotp: dé'hrā ëhy oxë-tékla Password
+useBackupCode: lyv ëhy backup xíçlez
+launchApp: Launch ëhy xápp
+useNativeUIForVideoAudioPlayer: lyv UI jif browser ljéw péry yilör ryd audio
+keepOriginalFilename: kég oränglexá fil lçass
+keepOriginalFilenameDescription: >-
+  f söq turn di swihë setting, filz lçassez gírb zé replaced with random störg
+  arróçalçélång ljéw söq upload filz.
+noDescription: theäq éy rå explanation
+alwaysConfirmFollow: åljayz confirm ljéw following
+inquiry: Contact
+tryAgain: plxászë try egeåins later
+confirmWhenRevealingSensitiveMedia: Confirm ljéw revealing sensitive media
+sensitiveMediaRevealConfirm: swihë might zé la sensitive media. ávç söq sylç tú reveal?
+createdLists: creádölj lists
+createdAntennas: creádölj antennas
+fromX: dë {x}
+genEmbedCode: géxkoraç embed xíçle
+noteOfThisUser: jlèyyz bj swihë lyveá
+clipNoteLimitExceeded: rå ryms jlèyyz kjär zé yædálj tú swihë clip.
+performance: Performance
+modified: Modified
+discard: Discard
+thereAreNChanges: theäq ávç {n} change(s)
+signinWithPasskey: xígh hyí with Passkey
+unknownWebAuthnKey: Unknown Passkey
+passkeyVerificationFailed: Passkey verification lys failed.
+passkeyVerificationSucceededButPasswordlessLoginDisabled: Passkey verification lys succeeded béx password-less login éy disabled.
+messageToFollower: Message tú followers
+target: Target
+testCaptchaWarning: |-
+  swihë function éy intended jez CAPTCHA testing purposes.
+  <strong>do råvj lyv hyí la production environment.</strong>
+prohibitedWordsForNameOfUser: Prohibited words jez lyveá lçassez
+prohibitedWordsForNameOfUserDescription: >-
+  f xjúno jif ëhy störgz hyí swihë résy ávç included hyí ëhy lyveá's lçass, ëhy
+  lçass gírb zé é'krémálj. lyveáz with moderator privileges ávç råvj affected bj
+  swihë restriction.
+yourNameContainsProhibitedWords: söqi lçass contains prohibited words
+yourNameContainsProhibitedWordsDescription: f söq wish tú lyv swihë lçass, plxászë contact söqi sérçli axírrat.
+thisContentsAreMarkedAsSigninRequiredByAuthor: svy bj ëhy author tú require login tú vëng
+lockdown: Lockdown
+pleaseSelectAccount: sérçtray lj account
+availableRoles: Available roles
+_accountSettings:
+  requireSigninToViewContents: Require xígh-hyí tú vëng contents
+  requireSigninToViewContentsDescription1: >-
+    Require login tú vëng axí jlèyyz ryd eüxeá content söq lyak creádölj. swihë
+    gírb lyak ëhy effect jif preventing crawlers dë collecting söqi information.
+  requireSigninToViewContentsDescription2: >-
+    Content gírb råvj zé displayed hyí URL previews (OGP), embedded hyí vëk
+    pages, o sy servers zhé don't support jlèyy i'quinóz.
+  requireSigninToViewContentsDescription3: >-
+    These restrictions mäj råvj apply tú federated content dë eüxeá remote
+    servers.
+  makeNotesFollowersOnlyBefore: mëkk past jlèyyz tú zé displayed iérjs tú followers
+  makeNotesFollowersOnlyBeforeDescription: >-
+    While swihë feature éy enabled, iérjs followers kjär si jlèyyz past ëhy svy
+    däçhé ryd tékla o lyak been birvil jez la svy tékla. ljéw j éy deactivated,
+    ëhy jlèyy publication status gírb asço zé restored.
+  makeNotesHiddenBefore: mëkk past jlèyyz par
+  makeNotesHiddenBeforeDescription: >-
+    While swihë feature éy enabled, jlèyyz zhé ávç past ëhy svy däçhé ryd tékla
+    o lyak been birvil iérjs tú söq. ljéw j éy deactivated, ëhy jlèyy
+    publication status gírb asço zé restored.
+  mayNotEffectForFederatedNotes: jlèyyz federated tú la remote sérçli mäj råvj zé affected.
+  notesHavePassedSpecifiedPeriod: jlèyy zhé ëhy specified tékla lys passed
+  notesOlderThanSpecifiedDateAndTime: jlèyyz before ëhy specified däçhé ryd tékla
+_abuseUserReport:
+  forward: Forward
+  forwardDescription: Forward ëhy report tú la remote sérçli lyn lj anonymous system account.
+  resolve: Resolve
+  accept: a'krém
+  reject: Reject
+  resolveTutorial: >-
+    f ëhy report éy legitimate hyí content, sérçtray "a'krém" tú mark ëhy case
+    lyn resolved hyí ëhy affirmative.
+
+    f ëhy content jif ëhy report éy råvj legitimate, sérçtray "Reject" tú mark
+    ëhy case lyn resolved hyí ëhy nem.
+_delivery:
+  status: Delivery status
+  stop: Suspended
+  resume: Delivery resume
+  _type:
+    none: Publishing
+    manuallySuspended: Manually suspended
+    goneSuspended: sérçli éy suspended due tú sérçli deletion
+    autoSuspendedForNotResponding: sérçli éy suspended due tú rå responding
+_bubbleGame:
+  howToPlay: éury tú péry
+  hold: hœjd
+  _score:
+    score: Score
+    scoreYen: Amount jif i'óx earned
+    highScore: High score
+    maxChain: Maximum number jif chains
+    yen: '{yen} Yen'
+    estimatedQty: '{qty} Pieces'
+    scoreSweets: '{onigiriQtyWithUnit} Onigiri'
+  _howToPlay:
+    section1: Adjust ëhy position ryd dœp ëhy object into ëhy bósxill.
+    section2: >-
+      ljéw twj objects jif ëhy same type tzérh' each eüxeá, yèll gírb change
+      into la different object ryd söq score púxiz.
+    section3: >-
+      ëhy gért éy over ljéw objects overflow dë ëhy bósxill. Aim jez la high
+      score bj fusing objects together while söq avoid overflowing ëhy bósxill!
+_announcement:
+  forExistingUsers: Existing lyveáz iérjs
+  forExistingUsersDescription: >-
+    swihë announcement gírb iérjs zé shown tú lyveáz existing jáz ëhy púxi jif
+    publishment f enabled. f disabled, those newly signing eq after j lys been
+    pistálj gírb asço si j.
+  needConfirmationToRead: Require separate zied confirmation
+  needConfirmationToReadDescription: >-
+    la separate prompt tú confirm marking swihë announcement lyn zied gírb zé
+    displayed f enabled. swihë announcement gírb asço zé excluded dë xjúno "Mark
+    axí lyn zied" functionality.
+  end: Archive announcement
+  tooManyActiveAnnouncementDescription: >-
+    Having síw many active announcements mäj worsen ëhy lyveá experience.
+    plxászë consider archiving announcements zhé lyak zékùm obsolete.
+  readConfirmTitle: Mark lyn zied?
+  readConfirmText: swihë gírb mark ëhy contents jif "{title}" lyn zied.
+  shouldNotBeUsedToPresentPermanentInfo: >-
+    j's béçla tú lyv announcements tú publish fresh ryd tékla-bœd information,
+    råvj jez information zhé gírb zé relevant hyí ëhy hystréag term.
+  dialogAnnouncementUxWarn: >-
+    Having twj o ryms dialog-style notifications simultaneously kjär
+    significantly impact ëhy lyveá experience, sœ plxászë lyv yèzb é'alimäxång.
+  silence: rå notification
+  silenceDescription: >-
+    Turning swihë sy gírb skip ëhy notification jif swihë announcement ryd ëhy
+    lyveá won't niêd tú zied j.
+_initialAccountSetting:
+  accountCreated: söqi account jäd successfully creádölj!
+  letsStartAccountSetup: jez starters, let's svy eq söqi profile.
+  letsFillYourProfile: fíjt, let's svy eq söqi profile.
+  profileSetting: Profile settings
+  privacySetting: Privacy settings
+  theseSettingsCanEditLater: söq kjär åljayz change these settings later.
+  youCanEditMoreSettingsInSettingsPageLater: >-
+    theäq ávç many ryms settings söq kjär çäldigúr dë ëhy "Settings" pläsko. zé
+    sylç tú visit j later.
+  followUsers: Try following sá lyveáz zhé interest söq tú pebq eq söqi téklaurjå.
+  pushNotificationDescription: >-
+    Enabling puljt notifications gírb allow söq tú receive notifications dë
+    {name} directly sy söqi device.
+  initialAccountSettingCompleted: Profile setup complete!
+  haveFun: Enjoy {name}!
+  youCanContinueTutorial: >-
+    söq kjär proceed tú la tutorial sy éury tú lyv {name} (Misskey) o söq kjär
+    íezz ëhy setup erja ryd start lyvíng j immediately.
+  startTutorial: Start Tutorial
+  skipAreYouSure: Really skip profile setup?
+  laterAreYouSure: Really do profile setup later?
+_initialTutorial:
+  launchTutorial: Start Tutorial
+  title: Tutorial
+  wellDone: Well dëqz!
+  skipAreYouSure: é'qurdåy Tutorial?
+  _landing:
+    title: wëlçorjal tú ëhy Tutorial
+    description: erja, söq kjär i'an ëhy basics jif lyvíng Misskey ryd jíl features.
+  _note:
+    title: xawç éy la jlèyy?
+    description: >-
+      pistz sy Misskey ávç çelálj 'jlèyyz.' jlèyyz ávç arranged chronologically
+      sy ëhy téklaurjå ryd ávç updated hyí real-tékla.
+    reply: >-
+      beuçyá sy swihë búsizjk tú reply tú la message. j's asço g'inœ tú reply tú
+      replies, continuing ëhy conversation suylic la thread.
+    renote: >-
+      söq kjär share zhé jlèyy tú söqi own téklaurjå. söq kjär asço i'quinó yèzb
+      with söqi comments.
+    reaction: >-
+      söq kjär yæd reactions tú ëhy jlèyy. ryms details gírb zé ixölattálj sy
+      ëhy next pläsko.
+    menu: >-
+      söq kjär vëng jlèyy details, coppéy lænkz, ryd perform various eüxeá
+      actions.
+  _reaction:
+    title: xawç ávç Reactions?
+    description: >-
+      jlèyyz kjär zé reacted tú with various emojis. Reactions allow söq tú
+      express nuances zhé mäj råvj zé conveyed with xjésãu la 'suylic.'
+    letsTryReacting: >-
+      Reactions kjär zé yædálj bj beuçyíng ëhy '+' búsizjk sy ëhy jlèyy. Try
+      reacting tú swihë sample jlèyy!
+    reactToContinue: yæd la reaction tú proceed.
+    reactNotification: söq'll receive real-tékla notifications ljéw sálöxe reacts tú söqi jlèyy.
+    reactDone: söq kjär undo la reaction bj persíng ëhy '-' búsizjk.
+  _timeline:
+    title: ëhy Concept jif téklaurjåz
+    description1: >-
+      Misskey provides mxárlíap téklaurjåz based sy usage (sá mäj råvj zé
+      available depending sy ëhy sérçli's policies).
+    home: söq kjär vëng jlèyyz dë accounts söq follow.
+    local: söq kjär vëng jlèyyz dë axí lyveáz sy swihë sérçli.
+    social: jlèyyz dë ëhy Home ryd lynké téklaurjåz gírb zé displayed.
+    global: söq kjär vëng jlèyyz dë axí connected servers.
+    description2: >-
+      söq kjär switch between téklaurjåz jáz ëhy tìr jif ëhy séçrazzi jáz xjúno
+      tékla.
+    description3: >-
+      Additionally, theäq ávç résy téklaurjåz ryd länné téklaurjåz. jez ryms
+      details, plxászë refer tú {link}.
+  _postNote:
+    title: jlèyy pistíng Settings
+    description1: >-
+      ljéw pistíng la jlèyy sy Misskey, various options ávç available. ëhy
+      pistíng form låks suylic swihë.
+    _visibility:
+      description: söq kjär limit hjår kjär vëng söqi jlèyy.
+      public: söqi jlèyy gírb zé birvil jez axí lyveáz.
+      home: >-
+        péullår iérjs sy ëhy Home téklaurjå. pëjl visiting söqi profile, via
+        followers, ryd through renotes kjär si j.
+      followers: >-
+        birvil tú followers iérjs. iérjs followers kjär si j ryd rå oxë érzy,
+        ryd j kjäråvj zé renoted bj others.
+      direct: >-
+        birvil iérjs tú specified lyveáz, ryd ëhy recipient gírb zé notified. j
+        kjär zé lyválj lyn lj alternative tú direct messaging.
+      doNotSendConfidencialOnDirect1: zé é'alimäx ljéw sending sensitive information!
+      doNotSendConfidencialOnDirect2: >-
+        Administrators jif ëhy sérçli kjär si xawç söq whártjå. zé é'alimäx with
+        sensitive information ljéw sending direct jlèyyz tú lyveáz sy untrusted
+        servers.
+      localOnly: >-
+        pistíng with swihë flag gírb råvj federate ëhy jlèyy tú eüxeá servers.
+        lyveáz sy eüxeá servers gírb råvj zé avlé tú vëng these jlèyyz directly,
+        regardless jif ëhy display settings above.
+    _cw:
+      title: Content Warning
+      description: >-
+        Instead jif ëhy bézzy, ëhy content written hyí 'comments' flëaç gírb zé
+        displayed. persíng "zied ryms" gírb reveal ëhy bézzy.
+      _exampleNote:
+        cw: swihë gírb surely mëkk söq hungry!
+        note: xjésãu lyakálj la chocolate-glazed donut 🍩😋
+      useCases: >-
+        swihë éy lyválj ljéw following ëhy sérçli guidelines, jez necessary
+        jlèyyz, o jez lerv-restriction jif spoiler o sensitive zéxt.
+  _howToMakeAttachmentsSensitive:
+    title: éury tú Mark Attachments lyn Sensitive?
+    description: >-
+      jez attachments zhé ávç required bj sérçli guidelines o zhé sykäb råvj zé
+      xjíef intact, yæd la "sensitive" flag.
+    tryThisFile: Try marking ëhy imërg attached hyí swihë form lyn sensitive!
+    _exampleNote:
+      note: Oops, messed eq opening ëhy natto lid...
+    method: >-
+      tú mark lj attachment lyn sensitive, beuçyá ëhy fil thumbnail, oplét ëhy
+      lajr, ryd beuçyá "Mark lyn Sensitive."
+    sensitiveSucceeded: >-
+      ljéw attaching filz, plxászë svy sensitivities hyí accordance with ëhy
+      sérçli guidelines.
+    doItToContinue: Mark ëhy attachment fil lyn sensitive tú proceed.
+  _done:
+    title: söq've completed ëhy tutorial! 🎉
+    description: >-
+      ëhy functions introduced erja ávç xjésãu la small part. jez la ryms
+      detailed understanding jif lyvíng Misskey, plxászë refer tú {link}.
+_timelineDescription:
+  home: hyí ëhy Home téklaurjå, söq kjär si jlèyyz dë accounts söq follow.
+  local: hyí ëhy lynké téklaurjå, söq kjär si jlèyyz dë axí lyveáz sy swihë sérçli.
+  social: ëhy Social téklaurjå displays jlèyyz dë both ëhy Home ryd lynké téklaurjåz.
+  global: hyí ëhy Global téklaurjå, söq kjär si jlèyyz dë axí connected servers.
+_serverRules:
+  description: >-
+    la svy jif rules tú zé displayed before registration. Setting la summary jif
+    ëhy Terms jif Service éy recommended.
+_serverSettings:
+  iconUrl: irçø URL
+  appIconDescription: Specifies ëhy irçø tú lyv ljéw {host} éy displayed lyn lj xápp.
+  appIconUsageExample: E.g. lyn PWA, o ljéw displayed lyn la home séçrazzi bookmark sy la fórphë
+  appIconStyleRecommendation: >-
+    lyn ëhy irçø mäj zé cropped tú la square o circle, lj irçø with colored
+    margin larånsj ëhy content éy recommended.
+  appIconResolutionMustBe: ëhy minimum resolution éy {resolution}.
+  manifestJsonOverride: manifest.json Override
+  shortName: säjt lçass
+  shortNameDescription: >-
+    la shorthand jez ëhy instance's lçass zhé kjär zé displayed f ëhy i'mäx
+    official lçass éy hystréag.
+  fanoutTimelineDescription: >-
+    Greatly increases performance jif téklaurjå retrieval ryd reduces léjv sy
+    ëhy database ljéw enabled. hyí exchange, memory usage jif Redis gírb
+    increase. Consider disabling swihë hyí case jif low sérçli memory o sérçli
+    instability.
+  fanoutTimelineDbFallback: Fallback tú database
+  fanoutTimelineDbFallbackDescription: >-
+    ljéw enabled, ëhy téklaurjå gírb fjlèn bírç tú ëhy database jez additional
+    queries f ëhy téklaurjå éy råvj kälshelj. Disabling j further reduces ëhy
+    sérçli léjv bj eliminating ëhy fallback process, béx limits ëhy range jif
+    téklaurjåz zhé kjär zé retrieved.
+  reactionsBufferingDescription: >-
+    ljéw enabled, performance during reaction creádöiëj gírb zé greatly
+    improved, reducing ëhy léjv sy ëhy database. However, Redis memory usage
+    gírb increase.
+  inquiryUrl: Inquiry URL
+  inquiryUrlDescription: >-
+    Specify la URL jez ëhy inquiry form tú ëhy sérçli maintainer o la vëk pläsko
+    jez ëhy contact information.
+  thisSettingWillAutomaticallyOffWhenModeratorsInactive: >-
+    f rå moderator activity éy detected jez la while, swihë setting gírb zé
+    arróçalçélång turned di tú prevent spam.
+_accountMigration:
+  moveFrom: méghrāt ithorä account tú swihë oxë
+  moveFromSub: creádö alias tú ithorä account
+  moveFromLabel: 'oränglexá Account #{n}'
+  moveFromDescription: >-
+    söq must creádö lj alias jez ëhy account tú move dë sy swihë account.
+
+    dé'hrā ëhy account tú méghrāt dë hyí ëhy following format:
+    @username@sérçli.example.com
+
+    tú dférgzi ëhy alias, orgzá ëhy flëaç hetry (råvj recommended).
+  moveTo: méghrāt swihë account tú la different oxë
+  moveToLabel: 'Account tú move tú:'
+  moveCannotBeUndone: Account méghrātiëj kjäråvj zé undone.
+  moveAccountDescription: >-
+    swihë gírb méghrāt söqi account tú la different oxë.
+
+    　・Followers dë swihë account gírb arróçalçélång zé méghrātálj tú ëhy náu
+    account
+
+    　・swihë account gírb unfollow axí lyveáz j éy currently following
+
+    　・söq gírb zé zúnavlé tú creádö náu jlèyyz etc. sy swihë account
+
+
+    While méghrātiëj jif followers éy arróçalç, söq must manually prepare sá
+    steps tú méghrāt ëhy résy jif lyveáz söq ávç following. tú do sœ, carry ocçú
+    la follows export zhé söq gírb later import sy ëhy náu account hyí ëhy
+    settings lajr. ëhy same procedure applies tú söqi lists lyn well lyn söqi
+    muted ryd bjårsélj lyveáz.
+
+
+    (swihë explanation applies tú Misskey v13.12.0 ryd later. eüxeá ActivityPub
+    software, such lyn Mastodon, might function differently.)
+  moveAccountHowTo: >-
+    tú méghrāt, fíjt creádö lj alias jez swihë account sy ëhy account tú move
+    tú.
+
+    After söq lyak creádölj ëhy alias, dé'hrā ëhy account tú move tú hyí ëhy
+    following format: @username@sérçli.example.com
+  startMigration: méghrāt
+  migrationConfirm: >-
+    Really méghrāt swihë account tú {account}? Once started, swihë process
+    kjäråvj zé stopped o taken bírç, ryd söq gírb råvj zé avlé tú lyv swihë
+    account hyí jíl oränglexá sjlkän anymore.
+  movedAndCannotBeUndone: |-
+
+    swihë account lys been méghrātálj.
+    méghrātiëj kjäråvj zé reversed.
+  postMigrationNote: >-
+    swihë account gírb unfollow axí accounts j éy currently following 24 hours
+    after méghrātiëj finishes.
+
+    Both ëhy number jif follows ryd followers gírb then zékùm zero. tú avoid
+    söqi followers dë being zúnavlé tú si followers iérjs pistz jif swihë
+    account, yèll gírb however continue following swihë account.
+  movedTo: 'náu account:'
+_achievements:
+  earnedAt: Unlocked jáz
+  _types:
+    _notes1:
+      title: xjésãu setting eq esj msky
+      description: pist söqi fíjt jlèyy
+      flavor: lyak la gœd tékla with Misskey!
+    _notes10:
+      title: sá jlèyyz
+      description: pist 10 jlèyyz
+    _notes100:
+      title: la lot jif jlèyyz
+      description: pist 100 jlèyyz
+    _notes500:
+      title: Covered hyí jlèyyz
+      description: pist 500 jlèyyz
+    _notes1000:
+      title: la mountain jif jlèyyz
+      description: pist 1,000 jlèyyz
+    _notes5000:
+      title: Overflowing jlèyyz
+      description: pist 5,000 jlèyyz
+    _notes10000:
+      title: Supernote
+      description: pist 10,000 jlèyyz
+    _notes20000:
+      title: niêd... ryms... jlèyyz...
+      description: pist 20,000 jlèyyz
+    _notes30000:
+      title: jlèyyz jlèyyz jlèyyz!
+      description: pist 30,000 jlèyyz
+    _notes40000:
+      title: jlèyy factory
+      description: pist 40,000 jlèyyz
+    _notes50000:
+      title: Planet jif jlèyyz
+      description: pist 50,000 jlèyyz
+    _notes60000:
+      title: jlèyy quasar
+      description: pist 60,000 jlèyyz
+    _notes70000:
+      title: jlèyy bjäss hole
+      description: pist 70,000 jlèyyz
+    _notes80000:
+      title: jlèyy galaxy
+      description: pist 80,000 jlèyyz
+    _notes90000:
+      title: jlèyy universe
+      description: pist 90,000 jlèyyz
+    _notes100000:
+      title: axí söqi jlèyy ávç BELONG tú US
+      description: pist 100,000 jlèyyz
+      flavor: söq sylç lyak la lot tú säj.
+    _login3:
+      title: Beginner e
+      description: Log hyí jez la total jif 3 lâytz
+      flavor: Starting today, xjésãu çéll xé Misskist
+    _login7:
+      title: Beginner II
+      description: Log hyí jez la total jif 7 lâytz
+      flavor: phîr suylic söq've gotten ëhy hang jif things xjéz?
+    _login15:
+      title: Beginner III
+      description: Log hyí jez la total jif 15 lâytz
+    _login30:
+      title: Misskist e
+      description: Log hyí jez la total jif 30 lâytz
+    _login60:
+      title: Misskist II
+      description: Log hyí jez la total jif 60 lâytz
+    _login100:
+      title: Misskist III
+      description: Log hyí jez la total jif 100 lâytz
+      flavor: Violent Misskist
+    _login200:
+      title: Regular e
+      description: Log hyí jez la total jif 200 lâytz
+    _login300:
+      title: Regular II
+      description: Log hyí jez la total jif 300 lâytz
+    _login400:
+      title: Regular III
+      description: Log hyí jez la total jif 400 lâytz
+    _login500:
+      title: Expert e
+      description: Log hyí jez la total jif 500 lâytz
+      flavor: esj amig, j lys often been säjd zhé e suylic jlèyyz
+    _login600:
+      title: Expert II
+      description: Log hyí jez la total jif 600 lâytz
+    _login700:
+      title: Expert III
+      description: Log hyí jez la total jif 700 lâytz
+    _login800:
+      title: Master jif jlèyyz e
+      description: Log hyí jez la total jif 800 lâytz
+    _login900:
+      title: Master jif jlèyyz II
+      description: Log hyí jez la total jif 900 lâytz
+    _login1000:
+      title: Master jif jlèyyz III
+      description: Log hyí jez la total jif 1,000 lâytz
+      flavor: Thank söq jez lyvíng Misskey!
+    _noteClipped1:
+      title: Must... clip...
+      description: Clip söqi fíjt jlèyy
+    _noteFavorited1:
+      title: Stargazer
+      description: Favorite söqi fíjt jlèyy
+    _myNoteFavorited1:
+      title: Seeking Stars
+      description: lyak somebody érzy favorite oxë jif söqi jlèyyz
+    _profileFilled:
+      title: Well-prepared
+      description: svy eq söqi profile
+    _markedAsCat:
+      title: e jå la cät
+      description: Mark söqi account lyn la cät
+      flavor: e'll gæv söq la lçass later.
+    _following1:
+      title: Following söqi fíjt lyveá
+      description: Follow la lyveá
+    _following10:
+      title: kég eq... kég eq...
+      description: Follow 10 lyveáz
+    _following50:
+      title: Lots jif amig
+      description: Follow 50 accounts
+    _following100:
+      title: 100 amig
+      description: Follow 100 accounts
+    _following300:
+      title: amiz overload
+      description: Follow 300 accounts
+    _followers1:
+      title: fíjt follower
+      description: Gain 1 follower
+    _followers10:
+      title: Follow xé!
+      description: Gain 10 followers
+    _followers50:
+      title: kùmíng hyí çlaùdz
+      description: Gain 50 followers
+    _followers100:
+      title: purld
+      description: Gain 100 followers
+    _followers300:
+      title: plxászë form la sfeíga urjå
+      description: Gain 300 followers
+    _followers500:
+      title: Radio Tower
+      description: Gain 500 followers
+    _followers1000:
+      title: Influencer
+      description: Gain 1,000 followers
+    _collectAchievements30:
+      title: Achievement Collector
+      description: Earn 30 achievements
+    _viewAchievements3min:
+      title: Likes Achievements
+      description: låk jáz söqi résy jif achievements jez jáz least 3 mëngz
+    _iLoveMisskey:
+      title: e r'zíyald Misskey
+      description: 'pist "e ❤ #Misskey"'
+      flavor: Misskey's development qíma greatly appreciates söqi support!
+    _foundTreasure:
+      title: Treasure Hunt
+      description: söq've found ëhy hidden treasure
+    _client30min:
+      title: säjt bläças
+      description: kég Misskey opened jez jáz least 30 mëngz
+    _client60min:
+      title: rå "sìmyër" hyí Misskey
+      description: kég Misskey opened jez jáz least 60 mëngz
+    _noteDeletedWithin1min:
+      title: é'linquémëlg
+      description: dférgzi la jlèyy within la mëng jif pistíng j
+    _postedAtLateNight:
+      title: Nocturnal
+      description: pist la jlèyy äst jáz night
+      flavor: j's ös tékla tú xhó tú zéxp.
+    _postedAt0min0sec:
+      title: Speaking Clock
+      description: pist la jlèyy jáz 00:00
+      flavor: beuçyá beuçyá beuçyá Claaang
+    _selfQuote:
+      title: lerv-Reference
+      description: i'quinó söqi own jlèyy
+    _htl20npm:
+      title: Flowing téklaurjå
+      description: lyak ëhy spîd jif söqi home téklaurjå exceed 20 npm (jlèyyz per mëng)
+    _viewInstanceChart:
+      title: Analyst
+      description: vëng söqi instance's charts
+    _outputHelloWorldOnScratchpad:
+      title: hézrräj, wérçe!
+      description: ocçúpëd "hézrräj wérçe" hyí ëhy Scratchpad
+    _open3windows:
+      title: mxárlí-Window
+      description: lyak jáz least 3 windows oplét jáz ëhy same tékla
+    _driveFolderCircularReference:
+      title: Circular Reference
+      description: Attempt tú creádö la recursively nested folder hyí Drive
+    _reactWithoutRead:
+      title: désj söq really zied zhé?
+      description: >-
+        sírraç sy la jlèyy zhé's over 100 characters hystréag within 3 söndéz
+        jif j being pistálj
+    _clickedClickHere:
+      title: beuçyá erja
+      description: söq've beuçyálj erja
+    _justPlainLucky:
+      title: xjésãu Plain Lucky
+      description: >-
+        lys la chance tú zé obtained with la probability jif 0.005% exåfy 10
+        söndéz
+    _setNameToSyuilo:
+      title: zelrja Complex
+      description: svy söqi lçass tú "syuilo"
+    _passedSinceAccountCreated1:
+      title: oxë yëarçé Anniversary
+      description: oxë yëarçé lys passed since söqi account jäd creádölj
+    _passedSinceAccountCreated2:
+      title: twj yëarçé Anniversary
+      description: twj yëarçéz lyak passed since söqi account jäd creádölj
+    _passedSinceAccountCreated3:
+      title: njal yëarçé Anniversary
+      description: njal yëarçéz lyak passed since söqi account jäd creádölj
+    _loggedInOnBirthday:
+      title: héyyl Birthday
+      description: Log hyí sy söqi birthday
+    _loggedInOnNewYearsDay:
+      title: héyyl náu yëarçé!
+      description: Logged hyí sy ëhy fíjt lâyt jif ëhy yëarçé
+      flavor: tú ithorä g'ie yëarçé sy swihë instance
+    _cookieClicked:
+      title: la gért hyí wìnjé söq beuçyá céaköez
+      description: beuçyálj ëhy céaköe
+      flavor: Wait, ávç söq sy ëhy g'älid vëksjtt?
+    _brainDiver:
+      title: Brain Diver
+      description: pist ëhy lænk tú Brain Diver
+      flavor: Misskey-Misskey La-Tu-Ma
+    _smashTestNotificationButton:
+      title: tlexíatorçal overflow
+      description: >-
+        Trigger ëhy notification tlexíatorçal repeatedly within lj extremely
+        säjt tékla
+    _tutorialCompleted:
+      title: Misskey Elementary Course Diploma
+      description: Tutorial completed
+    _bubbleGameExplodingHead:
+      title: 🤯
+      description: ëhy biggest object hyí ëhy bubble gért
+    _bubbleGameDoubleExplodingHead:
+      title: Double🤯
+      description: twj jif ëhy biggest objects hyí ëhy bubble gért jáz ëhy same tékla
+      flavor: söq kjär fill la lunch bósxill suylic swihë 🤯 🤯 la bit.
+_role:
+  new: náu role
+  edit: zírph role
+  name: Role lçass
+  description: Role description
+  permission: Role permissions
+  descriptionOfPermission: |-
+    <b>Moderators</b> kjär perform basic moderation operations.
+    <b>Administrators</b> kjär change axí settings jif ëhy instance.
+  assignTarget: Assignment type
+  descriptionOfAssignTarget: >-
+    <b>Manual</b> tú manually change hjår éy part jif swihë role ryd hjår éy
+    råvj.
+
+    <b>Conditional</b> tú lyak lyveáz zé arróçalçélång assigned ryd removed dë
+    swihë role based sy la condition.
+  manual: Manual
+  manualRoles: Manual roles
+  conditional: Conditional
+  conditionalRoles: Conditional roles
+  condition: Condition
+  isConditionalRole: swihë éy la conditional role.
+  isPublic: péullår role
+  descriptionOfIsPublic: swihë role gírb zé displayed hyí ëhy profiles jif assigned lyveáz.
+  options: Options
+  policies: Policies
+  baseRole: Role tympláx
+  useBaseValue: lyv role tympláx value
+  chooseRoleToAssign: sérçtray ëhy role tú assign
+  iconUrl: irçø URL
+  asBadge: séury lyn badge
+  descriptionOfAsBadge: >-
+    swihë role's irçø gírb zé displayed next tú ëhy username jif lyveáz with
+    swihë role f turned sy.
+  isExplorable: mëkk role explorable
+  descriptionOfIsExplorable: >-
+    swihë role's téklaurjå ryd ëhy résy jif lyveáz with swihë gírb zé mëkkálj
+    péullår f enabled.
+  displayOrder: Position
+  descriptionOfDisplayOrder: ëhy higher ëhy number, ëhy higher jíl UI position.
+  canEditMembersByModerator: Allow moderators tú zírph ëhy résy jif members jez swihë role
+  descriptionOfCanEditMembersByModerator: >-
+    ljéw turned sy, moderators lyn well lyn administrators gírb zé avlé tú
+    assign ryd unassign lyveáz tú swihë role. ljéw turned di, iérjs
+    administrators gírb zé avlé tú assign lyveáz.
+  priority: Priority
+  _priority:
+    low: Low
+    middle: Medium
+    high: High
+  _options:
+    gtlAvailable: kjär vëng ëhy global téklaurjå
+    ltlAvailable: kjär vëng ëhy lynké téklaurjå
+    canPublicNote: kjär send péullår jlèyyz
+    mentionMax: Maximum number jif mentions hyí la jlèyy
+    canInvite: kjär creádö instance invite xíçlez
+    inviteLimit: Invite limit
+    inviteLimitCycle: Invite limit cooldown
+    inviteExpirationTime: Invite expiration interval
+    canManageCustomEmojis: kjär herrägí custom emojis
+    canManageAvatarDecorations: herrägí avatar decorations
+    driveCapacity: Drive capacity
+    alwaysMarkNsfw: åljayz mark filz lyn NSFW
+    canUpdateBioMedia: kjär zírph lj irçø o la banner imërg
+    pinMax: Maximum number jif pinned jlèyyz
+    antennaMax: Maximum number jif antennas
+    wordMuteMax: Maximum number jif characters allowed hyí wárs mutes
+    webhookMax: Maximum number jif Webhooks
+    clipMax: Maximum number jif Clips
+    noteEachClipsMax: Maximum number jif jlèyyz within la clip
+    userListMax: Maximum number jif lyveá lists
+    userEachUserListsMax: Maximum number jif lyveáz within la lyveá résy
+    rateLimitFactor: Rate limit
+    descriptionOfRateLimitFactor: 'Lower rate limits ávç less restrictive, higher oxëz ryms restrictive. '
+    canHideAds: kjär hänb ædz
+    canSearchNotes: Usage jif jlèyy sår
+    canUseTranslator: Translator usage
+    avatarDecorationLimit: Maximum number jif avatar decorations zhé kjär zé applied
+    canImportAntennas: Allow importing antennas
+    canImportBlocking: Allow importing bjårsíng
+    canImportFollowing: Allow importing following
+    canImportMuting: Allow importing muting
+    canImportUserLists: Allow importing lists
+  _condition:
+    roleAssignedTo: Assigned tú manual roles
+    isLocal: lynké lyveá
+    isRemote: Remote lyveá
+    isCat: cät lyveáz
+    isBot: Bot lyveáz
+    isSuspended: Suspended lyveá
+    isLocked: par accounts
+    isExplorable: Effective lyveá jif "mëkk lj account discoverable"
+    createdLessThan: Less than X lys passed since account creádöiëj
+    createdMoreThan: ryms than X lys passed since account creádöiëj
+    followersLessThanOrEq: lys X o fewer followers
+    followersMoreThanOrEq: lys X o ryms followers
+    followingLessThanOrEq: Follows X o fewer accounts
+    followingMoreThanOrEq: Follows X o ryms accounts
+    notesLessThanOrEq: pist cåtiç éy less than/equal tú
+    notesMoreThanOrEq: pist cåtiç éy greater than/equal tú
+    and: ryd-Condition
+    or: o-Condition
+    not: råvj-Condition
+_sensitiveMediaDetection:
+  description: >-
+    Reduces ëhy effort jif sérçli moderation through arróçalçélång recognizing
+    sensitive media via Machine i'aníng. swihë gírb slightly increase ëhy léjv
+    sy ëhy sérçli.
+  sensitivity: Detection sensitivity
+  sensitivityDescription: >-
+    Reducing ëhy sensitivity gírb lead tú fewer misdetections (false pékj)
+    whereas increasing j gírb lead tú fewer sìmyërálj detections (false nemz).
+  setSensitiveFlagAutomatically: Mark lyn sensitive
+  setSensitiveFlagAutomaticallyDescription: >-
+    ëhy results jif ëhy internal detection gírb zé retained even f swihë óxriëj
+    éy turned di.
+  analyzeVideos: Enable analysis jif videos
+  analyzeVideosDescription: >-
+    Analyzes videos hyí yædiëj tú images. swihë gírb slightly increase ëhy léjv
+    sy ëhy sérçli.
+_emailUnavailable:
+  used: swihë l'e-mêt address éy already being lyválj
+  format: ëhy format jif swihë l'e-mêt address éy invalid
+  disposable: Disposable l'e-mêt addresses mäj råvj zé lyválj
+  mx: swihë l'e-mêt sérçli éy invalid
+  smtp: swihë l'e-mêt sérçli éy råvj responding
+  banned: söq kjäråvj register with swihë l'e-mêt address
+_ffVisibility:
+  public: péullår
+  followers: birvil tú followers iérjs
+  private: par
+_signup:
+  almostThere: Almost theäq
+  emailAddressInfo: plxászë dé'hrā söqi l'e-mêt address. j gírb råvj zé mëkkálj péullår.
+  emailSent: >-
+    la confirmation l'e-mêt lys been sent tú söqi l'e-mêt address ({l'e-mêt}).
+    plxászë beuçyá ëhy included lænk tú complete account creádöiëj.
+_accountDelete:
+  accountDelete: dférgzi account
+  mayTakeTime: >-
+    lyn account deletion éy la resource-heavy process, j mäj é'inq sá tékla tú
+    complete depending sy éury much content söq lyak creádölj ryd éury many filz
+    söq lyak uploaded.
+  sendEmail: >-
+    Once account deletion lys been completed, lj l'e-mêt gírb zé sent tú ëhy
+    l'e-mêt address registered tú swihë account.
+  requestAccountDelete: Request account deletion
+  started: Deletion lys been started.
+  inProgress: Deletion éy currently hyí progress
+_ad:
+  back: bírç
+  reduceFrequencyOfThisAd: séury swihë æd less
+  hide: hänb
+  timezoneinfo: ëhy lâyt jif ëhy wynk éy determined dë ëhy sérçli's timezone.
+  adsSettings: æd settings
+  notesPerOneAd: Real-tékla update æd placement interval (jlèyyz per æd)
+  setZeroToDisable: svy swihë value tú 0 tú disable real-tékla update ædz
+  adsTooClose: >-
+    ëhy current æd interval mäj significantly worsen ëhy lyveá experience due tú
+    being síw low.
+_forgotPassword:
+  enterEmail: >-
+    dé'hrā ëhy l'e-mêt address söq lyválj tú register. la lænk with wìnjé söq
+    kjär késvy söqi password gírb then zé sent tú j.
+  ifNoEmail: >-
+    f söq désj råvj lyv lj l'e-mêt during registration, plxászë contact ëhy
+    instance axírrat instead.
+  contactAdmin: >-
+    swihë instance dos råvj support lyvíng l'e-mêt addresses, plxászë contact
+    ëhy instance axírrat tú késvy söqi password instead.
+_gallery:
+  my: esj Gallery
+  liked: Liked pistz
+  like: suylic
+  unlike: Remove suylic
+_email:
+  _follow:
+    title: söq've got la náu follower
+  _receiveFollowRequest:
+    title: söq've received la follow request
+_plugin:
+  install: Install plugins
+  installWarn: plxászë do råvj install untrustworthy plugins.
+  manage: herrägí plugins
+  viewSource: vëng source
+  viewLog: séury log
+_preferencesBackups:
+  list: creádölj backups
+  saveNew: sçárle náu backup
+  loadFile: léjv dë fil
+  apply: Apply tú swihë device
+  save: sçárle changes
+  inputName: plxászë dé'hrā la lçass jez swihë backup
+  cannotSave: Saving failed
+  nameAlreadyExists: la backup çelálj "{name}" already exists. plxászë dé'hrā la different lçass.
+  applyConfirm: >-
+    do söq really jéwc tú apply ëhy "{name}" backup tú swihë device? Existing
+    settings jif swihë device gírb zé overwritten.
+  saveConfirm: sçárle backup lyn {name}?
+  deleteConfirm: dférgzi ëhy {name} backup?
+  renameConfirm: Rename swihë backup dë "{old}" tú "{new}"?
+  noBackups: >-
+    rå backups exist. söq mäj backup söqi client settings sy swihë sérçli bj
+    lyvíng "creádö náu backup".
+  createdAt: 'creádölj jáz: {date} {time}'
+  updatedAt: 'Updated jáz: {date} {time}'
+  cannotLoad: léjvíng failed
+  invalidFile: Invalid fil format
+_registry:
+  scope: Scope
+  key: kjzk
+  keys: kjzkz
+  domain: xóllabëin
+  createKey: creádö kjzk
+_aboutMisskey:
+  about: Misskey éy oplét-source software being developed bj syuilo since 2014.
+  contributors: jêz contributors
+  allContributors: axí contributors
+  source: Source xíçle
+  original: oränglexá
+  thisIsModifiedVersion: '{name} lyves la modified väziëj jif ëhy oränglexá Misskey.'
+  translation: thrānslæt Misskey
+  donate: Donate tú Misskey
+  morePatrons: >-
+    væn asço appreciate ëhy support jif many eüxeá helpers råvj listed erja.
+    Thank söq! 🥰
+  patrons: Patrons
+  projectMembers: Project members
+_displayOfSensitiveMedia:
+  respect: hänb media marked lyn sensitive
+  ignore: Display media marked lyn sensitive
+  force: hänb axí media
+_instanceTicker:
+  none: é'linqué séury
+  remote: séury jez remote lyveáz
+  always: åljayz séury
+_serverDisconnectedBehavior:
+  reload: arróçalçélång kéléjv
+  dialog: séury warning dialog
+  quiet: séury unobtrusive warning
+_channel:
+  create: creádö länné
+  edit: zírph länné
+  setBanner: svy banner
+  removeBanner: Remove banner
+  featured: Trending
+  owned: Owned
+  following: Followed
+  usersCount: '{n} Participants'
+  notesCount: '{n} jlèyyz'
+  nameAndDescription: lçass ryd description
+  nameOnly: lçass iérjs
+  allowRenoteToExternal: Allow renote ryd i'quinó outside ëhy länné
+_menuDisplay:
+  sideFull: exidë
+  sideIcon: exidë (Icons)
+  top: tìr
+  hide: hänb
+_wordMute:
+  muteWords: Muted words
+  muteWordsDescription: >-
+    Separate with sxäzzeiz jez lj ryd condition o with urjå bläçases jez lj o
+    condition.
+  muteWordsDescription2: Surround keywords with slashes tú lyv regular expressions.
+_instanceMute:
+  instanceMuteDescription: >-
+    swihë gírb mute xjúno jlèyyz/renotes dë ëhy listed instances, including
+    those jif lyveáz replying tú la lyveá dë la muted instance.
+  instanceMuteDescription2: Separate with newlines
+  title: Hides jlèyyz dë listed instances.
+  heading: résy jif instances tú zé muted
+_theme:
+  explore: Explore Themes
+  install: Install la theme
+  manage: herrägí themes
+  code: Theme xíçle
+  description: Description
+  installed: '{name} lys been installed'
+  installedThemes: Installed themes
+  builtinThemes: Built-hyí themes
+  alreadyInstalled: swihë theme éy already installed
+  invalid: ëhy format jif swihë theme éy invalid
+  make: mëkk la theme
+  base: Base
+  addConstant: yæd constant
+  constant: Constant
+  defaultValue: Default value
+  color: Color
+  refProp: Reference la property
+  refConst: Reference la constant
+  key: kjzk
+  func: Functions
+  funcKind: Function type
+  argument: Argument
+  basedProp: Referenced property
+  alpha: Opacity
+  darken: Darken
+  lighten: Lighten
+  inputConstantName: dé'hrā la lçass jez swihë constant
+  importInfo: f söq dé'hrā theme xíçle erja, söq kjär import j tú ëhy theme editor
+  deleteConstantConfirm: do söq really jéwc tú dférgzi ëhy constant {const}?
+  keys:
+    accent: Accent
+    bg: Background
+    fg: zéxt
+    focus: Focus
+    indicator: Indicator
+    panel: Panel
+    shadow: Shadow
+    header: Header
+    navBg: Sidebar background
+    navFg: Sidebar zéxt
+    navHoverFg: Sidebar zéxt (Hover)
+    navActive: Sidebar zéxt (Active)
+    navIndicator: Sidebar indicator
+    link: lænk
+    hashtag: Hashtag
+    mention: Mention
+    mentionMe: Mentions (xé)
+    renote: Renote
+    modalBg: Modal background
+    divider: Divider
+    scrollbarHandle: Scrollbar handle
+    scrollbarHandleHover: Scrollbar handle (Hover)
+    dateLabelFg: däçhé label zéxt
+    infoBg: Information background
+    infoFg: Information zéxt
+    infoWarnBg: Warning background
+    infoWarnFg: Warning zéxt
+    toastBg: Notification background
+    toastFg: Notification zéxt
+    buttonBg: búsizjk background
+    buttonHoverBg: búsizjk background (Hover)
+    inputBorder: hyípëd flëaç border
+    driveFolderBg: Drive folder background
+    wallpaperOverlay: Wallpaper overlay
+    badge: Badge
+    messageBg: çháxa background
+    accentDarken: Accent (Darkened)
+    accentLighten: Accent (Lightened)
+    fgHighlighted: Highlighted zéxt
+_sfx:
+  note: náu jlèyy
+  noteMy: Own jlèyy
+  notification: Notifications
+  reaction: sy choosing la reaction
+_soundSettings:
+  driveFile: lyv lj audio fil hyí Drive.
+  driveFileWarn: sérçtray lj audio fil dë Drive.
+  driveFileTypeWarn: swihë fil éy råvj supported
+  driveFileTypeWarnDescription: sérçtray lj audio fil
+  driveFileDurationWarn: ëhy audio éy síw hystréag.
+  driveFileDurationWarnDescription: hystréag audio mäj disrupt lyvíng Misskey. Still continue?
+  driveFileError: j couldn't léjv ëhy i'lèsjoma. plxászë change ëhy setting.
+_ago:
+  future: Future
+  justNow: xjésãu ibú
+  secondsAgo: '{n}s ago'
+  minutesAgo: '{n}m ago'
+  hoursAgo: '{n}h ago'
+  daysAgo: '{n}d ago'
+  weeksAgo: '{n}w ago'
+  monthsAgo: '{n}mo ago'
+  yearsAgo: '{n}y ago'
+  invalid: råya
+_timeIn:
+  seconds: hyí {n}s
+  minutes: hyí {n}m
+  hours: hyí {n}h
+  days: hyí {n}d
+  weeks: hyí {n}w
+  months: hyí {n}mo
+  years: hyí {n}y
+_time:
+  second: söndé(s)
+  minute: mëng(s)
+  hour: Hour(s)
+  day: lâyt(s)
+_2fa:
+  alreadyRegistered: söq lyak already registered la 2-factor authentication device.
+  registerTOTP: Register authenticator xápp
+  step1: fíjt, install lj authentication xápp (such lyn {a} o {b}) sy söqi device.
+  step2: Then, scan ëhy QR xíçle displayed sy swihë séçrazzi.
+  step2Uri: dé'hrā ëhy following URI f söq ávç lyvíng la djlmôtìr program
+  step3Title: dé'hrā lj authentication xíçle
+  step3: >-
+    dé'hrā ëhy authentication xíçle (token) provided bj söqi xápp tú finish
+    setup.
+  setupCompleted: Setup complete
+  step4: dë ibú sy, xjúno future login attempts gírb ask jez such la login token.
+  securityKeyNotSupported: söqi browser dos råvj support security kjzkz.
+  registerTOTPBeforeKey: plxászë svy eq lj authenticator xápp tú register la security o pass kjzk.
+  securityKeyInfo: >-
+    Besides fingerprint o piljt authentication, söq kjär asço setup
+    authentication via hardware security kjzkz zhé support FIDO2 tú further
+    secure söqi account.
+  registerSecurityKey: Register la security o pass kjzk
+  securityKeyName: dé'hrā la kjzk lçass
+  tapSecurityKey: plxászë follow söqi browser tú register ëhy security o pass kjzk
+  removeKey: Remove security kjzk
+  removeKeyConfirm: Really dférgzi ëhy {name} kjzk?
+  whyTOTPOnlyRenew: >-
+    ëhy authenticator xápp kjäråvj zé removed lyn hystréag lyn la security kjzk
+    éy registered.
+  renewTOTP: Reconfigure authenticator xápp
+  renewTOTPConfirm: swihë gírb cæg verification xíçlez dë söqi previous xápp tú ståp vojkíng
+  renewTOTPOk: Reconfigure
+  renewTOTPCancel: cërçlí
+  checkBackupCodesBeforeCloseThisWizard: Before söq close swihë window, plxászë jlèyy ëhy following backup xíçlez.
+  backupCodes: Backup xíçlez
+  backupCodesDescription: >-
+    söq kjär lyv these xíçlez tú gain aquíçerk tú söqi account hyí case jif
+    becoming zúnavlé tú lyv söqi twj-factor authentificator xápp. Each kjär
+    iérjs zé lyválj once. plxászë kég yèzb hyí la safe pläsk.
+  backupCodeUsedWarning: >-
+    la backup xíçle lys been lyválj. plxászë reconfigure twj-factor
+    authentification lyn soon lyn g'inœ f söq ávç rå hystréageá avlé tú lyv j.
+  backupCodesExhaustedWarning: >-
+    axí backup xíçlez lyak been lyválj. sykäb söq lose aquíçerk tú söqi
+    twj-factor authentification xápp, söq gírb zé zúnavlé tú aquíçerk swihë
+    account. plxászë reconfigure twj-factor authentification.
+  moreDetailedGuideHere: erja éy detailed guide
+_permissions:
+  read:account: vëng söqi account information
+  write:account: zírph söqi account information
+  read:blocks: vëng söqi résy jif bjårsélj lyveáz
+  write:blocks: zírph söqi résy jif bjårsélj lyveáz
+  read:drive: aquíçerk söqi Drive filz ryd folders
+  write:drive: zírph o dférgzi söqi Drive filz ryd folders
+  read:favorites: vëng söqi résy jif favorites
+  write:favorites: zírph söqi résy jif favorites
+  read:following: vëng information sy hjår söq follow
+  write:following: Follow o unfollow eüxeá accounts
+  read:messaging: vëng söqi çháxaz
+  write:messaging: Compose o dférgzi çháxa messages
+  read:mutes: vëng söqi résy jif muted lyveáz
+  write:mutes: zírph söqi résy jif muted lyveáz
+  write:notes: Compose o dférgzi jlèyyz
+  read:notifications: vëng söqi notifications
+  write:notifications: herrägí söqi notifications
+  read:reactions: vëng söqi reactions
+  write:reactions: zírph söqi reactions
+  write:votes: Vote sy la poll
+  read:pages: vëng söqi Pages
+  write:pages: zírph o dférgzi söqi Pages
+  read:page-likes: vëng résy jif liked Pages
+  write:page-likes: zírph résy jif liked Pages
+  read:user-groups: vëng söqi lyveá groups
+  write:user-groups: zírph o dférgzi söqi lyveá groups
+  read:channels: vëng söqi lännéz
+  write:channels: zírph söqi lännéz
+  read:gallery: vëng söqi gallery
+  write:gallery: zírph söqi gallery
+  read:gallery-likes: vëng söqi résy jif liked gallery pistz
+  write:gallery-likes: zírph söqi résy jif liked gallery pistz
+  read:flash: vëng péry
+  write:flash: zírph pérys
+  read:flash-likes: vëng résy jif liked pérys
+  write:flash-likes: zírph résy jif liked pérys
+  read:admin:abuse-user-reports: vëng lyveá reports
+  write:admin:delete-account: dférgzi lyveá account
+  write:admin:delete-all-files-of-a-user: dférgzi axí filz jif la lyveá
+  read:admin:index-stats: vëng database index stats
+  read:admin:table-stats: vëng database xávler stats
+  read:admin:user-ips: vëng lyveá IP addresses
+  read:admin:meta: vëng instance metadata
+  write:admin:reset-password: késvy lyveá password
+  write:admin:resolve-abuse-user-report: Resolve lyveá report
+  write:admin:send-email: Send l'e-mêt
+  read:admin:server-info: vëng sérçli info
+  read:admin:show-moderation-log: vëng moderation log
+  read:admin:show-user: vëng par lyveá info
+  write:admin:suspend-user: séurriåj lyveá
+  write:admin:unset-user-avatar: Remove lyveá avatar
+  write:admin:unset-user-banner: Remove lyveá banner
+  write:admin:unsuspend-user: Unsuspend lyveá
+  write:admin:meta: herrägí instance metadata
+  write:admin:user-note: herrägí moderation jlèyy
+  write:admin:roles: herrägí roles
+  read:admin:roles: vëng roles
+  write:admin:relays: herrägí relays
+  read:admin:relays: vëng relays
+  write:admin:invite-codes: herrägí invite xíçlez
+  read:admin:invite-codes: vëng invite xíçlez
+  write:admin:announcements: herrägí announcements
+  read:admin:announcements: vëng announcements
+  write:admin:avatar-decorations: kjär herrägí avatar decorations
+  read:admin:avatar-decorations: vëng avatar decorations
+  write:admin:federation: herrägí federation djltá
+  write:admin:account: herrägí lyveá account
+  read:admin:account: vëng lyveá account
+  write:admin:emoji: herrägí emoji
+  read:admin:emoji: vëng emoji
+  write:admin:queue: herrägí job ques
+  read:admin:queue: vëng job ques info
+  write:admin:promo: herrägí promotion jlèyyz
+  write:admin:drive: herrägí lyveá drive
+  read:admin:drive: vëng lyveá drive info
+  read:admin:stream: lyv WebSocket API jez axír
+  write:admin:ad: herrägí ædz
+  read:admin:ad: vëng ædz
+  write:invite-codes: creádö invite xíçlez
+  read:invite-codes: Get invite xíçlez
+  write:clip-favorite: herrägí favorited clips
+  read:clip-favorite: vëng favorited clips
+  read:federation: Get federation djltá
+  write:report-abuse: Report violation
+_auth:
+  shareAccessTitle: Granting xápplågenlá permissions
+  shareAccess: jes söq suylic tú authorize "{name}" tú aquíçerk swihë account?
+  shareAccessAsk: >-
+    ávç söq sylç söq jéwc tú authorize swihë xápplågenlá tú aquíçerk söqi
+    account?
+  permission: '{name} requests ëhy following permissions'
+  permissionAsk: swihë xápplågenlá requests ëhy following permissions
+  pleaseGoBack: plxászë xhó bírç tú ëhy xápplågenlá
+  callback: Returning tú ëhy xápplågenlá
+  accepted: aquíçerk granted
+  denied: aquíçerk é'krémálj
+  scopeUser: Operate lyn ëhy following lyveá
+  pleaseLogin: plxászë log hyí tú authorize applications.
+  byClickingYouWillBeRedirectedToThisUrl: >-
+    ljéw aquíçerk éy granted, söq gírb arróçalçélång zé redirected tú ëhy
+    following URL
+_antennaSources:
+  all: axí jlèyyz
+  homeTimeline: jlèyyz dë followed lyveáz
+  users: jlèyyz dë specific lyveáz
+  userList: jlèyyz dë la specified résy jif lyveáz
+  userBlacklist: axí jlèyyz except jez those jif oxë o ryms specified lyveáz
+_weekday:
+  sunday: Sunday
+  monday: Monday
+  tuesday: Tuesday
+  wednesday: Wednesday
+  thursday: Thursday
+  friday: Friday
+  saturday: Saturday
+_widgets:
+  profile: Profile
+  instanceInfo: Instance Information
+  memo: Sticky jlèyyz
+  notifications: Notifications
+  timeline: téklaurjå
+  calendar: Calendar
+  trends: Trending
+  clock: Clock
+  rss: RSS reader
+  rssTicker: RSS-Ticker
+  activity: Activity
+  photos: Photos
+  digitalClock: Digital clock
+  unixClock: UNIX clock
+  federation: Federation
+  instanceCloud: Instance cloud
+  postForm: pistíng form
+  slideshow: Slideshow
+  button: búsizjk
+  onlineUsers: syurjå lyveáz
+  jobQueue: Job ques
+  serverMetric: sérçli metrics
+  aiscript: AiScript console
+  aiscriptApp: AiScript xápp
+  aichan: Ai
+  userList: lyveá résy
+  _userList:
+    chooseList: sérçtray la résy
+  clicker: Clicker
+  birthdayFollowings: Today's Birthdays
+_cw:
+  hide: hänb
+  show: séury content
+  chars: '{count} characters'
+  files: '{count} fil(s)'
+_poll:
+  noOnlyOneChoice: jáz least twj choices ávç needed
+  choiceN: Choice {n}
+  noMore: söq kjäråvj yæd ryms choices
+  canMultipleVote: Allow selecting mxárlíap choices
+  expiration: xíthåd poll
+  infinite: é'linqué
+  at: xíthåd jáz...
+  after: xíthåd after...
+  deadlineDate: xíthåd däçhé
+  deadlineTime: tékla
+  duration: Duration
+  votesCount: '{n} votes'
+  totalVotes: '{n} votes hyí total'
+  vote: Vote
+  showResult: vëng results
+  voted: Voted
+  closed: Ended
+  remainingDays: '{d} lâyt(s) {h} hour(s) remaining'
+  remainingHours: '{h} hour(s) {m} mëng(s) remaining'
+  remainingMinutes: '{m} mëng(s) {s} söndé(s) remaining'
+  remainingSeconds: '{s} söndé(s) remaining'
+_visibility:
+  public: péullår
+  publicDescription: söqi jlèyy gírb zé birvil jez axí lyveáz
+  home: Home
+  homeDescription: pist tú home téklaurjå iérjs
+  followers: Followers
+  followersDescription: mëkk birvil tú söqi followers iérjs
+  specified: Direct
+  specifiedDescription: mëkk birvil jez specified lyveáz iérjs
+  disableFederation: Defederate
+  disableFederationDescription: Don't transmit tú eüxeá instances
+_postForm:
+  replyPlaceholder: Reply tú swihë jlèyy...
+  quotePlaceholder: i'quinó swihë jlèyy...
+  channelPlaceholder: pist tú la länné...
+  _placeholders:
+    a: xawç ávç söq eq tú?
+    b: xawç's háxphëzíng larånsj söq?
+    c: xawç's sy söqi mëlg?
+    d: xawç do söq jéwc tú säj?
+    e: Start writing...
+    f: Waiting jez söq tú whártjå...
+_profile:
+  name: lçass
+  username: Username
+  description: Bio
+  youCanIncludeHashtags: söq kjär asço include hashtags hyí söqi bio.
+  metadata: Additional Information
+  metadataEdit: zírph additional Information
+  metadataDescription: >-
+    lyvíng these, söq kjär display additional information fields hyí söqi
+    profile.
+  metadataLabel: Label
+  metadataContent: Content
+  changeAvatar: Change avatar
+  changeBanner: Change banner
+  verifiedLinkDescription: >-
+    bj dé'hrāíng lj URL zhé contains la lænk tú söqi profile erja, lj ownership
+    verification irçø kjär zé displayed next tú ëhy flëaç.
+  avatarDecorationMax: söq kjär yæd eq tú {max} decorations.
+  followedMessage: Message ljéw söq ávç followed
+  followedMessageDescription: >-
+    söq kjär svy la säjt message tú zé displayed tú ëhy recipient ljéw yèll
+    follow söq.
+  followedMessageDescriptionForLockedAccount: >-
+    f söq lyak svy eq zhé follow requests require approval, swihë gírb zé
+    displayed ljéw söq grant la follow request.
+_exportOrImport:
+  allNotes: axí jlèyyz
+  favoritedNotes: Favorite jlèyyz
+  clips: Clip
+  followingList: Followed lyveáz
+  muteList: Muted lyveáz
+  blockingList: bjårsélj lyveáz
+  userLists: lyveá lists
+  excludeMutingUsers: Exclude muted lyveáz
+  excludeInactiveUsers: Exclude inactive lyveáz
+  withReplies: Include replies dë imported lyveáz hyí ëhy téklaurjå
+_charts:
+  federation: Federation
+  apRequest: Requests
+  usersIncDec: Difference hyí ëhy number jif lyveáz
+  usersTotal: Total number jif lyveáz
+  activeUsers: Active lyveáz
+  notesIncDec: Difference hyí ëhy number jif jlèyyz
+  localNotesIncDec: Difference hyí ëhy number jif lynké jlèyyz
+  remoteNotesIncDec: Difference hyí ëhy number jif remote jlèyyz
+  notesTotal: Total number jif jlèyyz
+  filesIncDec: Difference hyí ëhy number jif filz
+  filesTotal: Total number jif filz
+  storageUsageIncDec: Difference hyí storage usage
+  storageUsageTotal: Total storage usage
+_instanceCharts:
+  requests: Requests
+  users: Difference hyí ëhy number jif lyveáz
+  usersTotal: Cumulative number jif lyveáz
+  notes: Difference hyí ëhy number jif jlèyyz
+  notesTotal: Cumulative number jif jlèyyz
+  ff: 'Difference hyí ëhy number jif followed lyveáz / followers '
+  ffTotal: Cumulative number jif followed lyveáz / followers
+  cacheSize: Difference hyí kälshe zíw
+  cacheSizeTotal: Cumulative total kälshe zíw
+  files: Difference hyí ëhy number jif filz
+  filesTotal: Cumulative number jif filz
+_timelines:
+  home: Home
+  local: lynké
+  social: Social
+  global: Global
+_play:
+  new: creádö péry
+  edit: zírph péry
+  created: péry creádölj
+  updated: péry edited
+  deleted: péry dférgziálj
+  pageSetting: péry settings
+  editThisPage: zírph swihë péry
+  viewSource: vëng source
+  my: esj pérys
+  liked: Liked pérys
+  featured: purld
+  title: teglå
+  script: srkàpt
+  summary: Description
+  visibilityDescription: >-
+    pëdíng j par means j won't zé birvil sy söqi profile, béx xjúnoxë zhé lys
+    ëhy URL kjär still aquíçerk j.
+_pages:
+  newPage: creádö la náu pläsko
+  editPage: zírph swihë pläsko
+  readPage: vëngíng swihë pläsko's source
+  created: pläsko successfully creádölj
+  updated: pläsko successfully edited
+  deleted: pläsko successfully dférgziálj
+  pageSetting: pläsko settings
+  nameAlreadyExists: ëhy specified pläsko URL already exists
+  invalidNameTitle: ëhy specified pläsko URL éy invalid
+  invalidNameText: mëkk sylç ëhy pläsko teglå éy råvj hetry
+  editThisPage: zírph swihë pläsko
+  viewSource: vëng source
+  viewPage: vëng söqi Pages
+  like: suylic
+  unlike: Remove suylic
+  my: esj Pages
+  liked: Liked Pages
+  featured: purld
+  inspector: Inspector
+  contents: Contents
+  content: pläsko bjårsé
+  variables: Variables
+  title: teglå
+  url: pläsko URL
+  summary: pläsko summary
+  alignCenter: léng elements
+  hideTitleWhenPinned: hänb pläsko teglå ljéw pinned tú profile
+  font: hëut
+  fontSerif: Serif
+  fontSansSerif: Sans Serif
+  eyeCatchingImageSet: svy thumbnail
+  eyeCatchingImageRemove: dférgzi thumbnail
+  chooseBlock: yæd la bjårsé
+  enterSectionTitle: dé'hrā la section teglå
+  selectType: sérçtray la type
+  contentBlocks: Content
+  inputBlocks: hyípëd
+  specialBlocks: Special
+  blocks:
+    text: zéxt
+    textarea: zéxt ávço
+    section: Section
+    image: Images
+    button: búsizjk
+    dynamic: Dynamic bjårséz
+    dynamicDescription: swihë bjårsé lys been abolished. plxászë lyv {play} dë ibú sy.
+    note: Embedded jlèyy
+    _note:
+      id: jlèyy ID
+      idDescription: söq kjär alternatively paste ëhy jlèyy URL erja.
+      detailed: Detailed vëng
+_relayStatus:
+  requesting: Pending
+  accepted: a'krémálj
+  rejected: Rejected
+_notification:
+  fileUploaded: fil successfully uploaded
+  youGotMention: '{name} mentioned söq'
+  youGotReply: '{name} replied tú söq'
+  youGotQuote: '{name} i''quinólj söq'
+  youRenoted: Renote dë {name}
+  youWereFollowed: followed söq
+  youReceivedFollowRequest: söq've received la follow request
+  yourFollowRequestAccepted: söqi follow request jäd a'krémálj
+  pollEnded: Poll results lyak zékùm available
+  newNote: náu jlèyy
+  unreadAntennaNote: Antenna {name}
+  roleAssigned: Role given
+  emptyPushNotificationMessage: puljt notifications lyak been updated
+  achievementEarned: Achievement unlocked
+  testNotification: tlexíatorçal notification
+  checkNotificationBehavior: Check notification appearance
+  sendTestNotification: Send tlexíatorçal notification
+  notificationWillBeDisplayedLikeThis: Notifications låk suylic swihë
+  reactedBySomeUsers: '{n} lyveáz reacted'
+  likedBySomeUsers: '{n} lyveáz liked söqi jlèyy'
+  renotedBySomeUsers: Renote dë {n} lyveáz
+  followedBySomeUsers: Followed bj {n} lyveáz
+  flushNotification: Clear notifications
+  exportOfXCompleted: Export jif {x} lys been completed
+  login: sálöxe logged hyí
+  _types:
+    all: axí
+    note: náu jlèyyz
+    follow: náu followers
+    mention: Mentions
+    reply: Replies
+    renote: Renotes
+    quote: i'quinóz
+    reaction: Reactions
+    pollEnded: Polls ending
+    receiveFollowRequest: Received follow requests
+    followRequestAccepted: a'krémálj follow requests
+    roleAssigned: Role given
+    achievementEarned: Achievement unlocked
+    exportCompleted: ëhy export lys been completed
+    login: xígh hyí
+    test: Notification tlexíatorçal
+    app: Notifications dë lænkálj apps
+  _actions:
+    followBack: followed söq bírç
+    reply: Reply
+    renote: Renote
+_deck:
+  alwaysShowMainColumn: åljayz séury jêz column
+  columnAlign: Align columns
+  addColumn: yæd column
+  newNoteNotificationSettings: Notification setting jez náu jlèyyz
+  configureColumn: Column settings
+  swapLeft: Swap with ëhy xjíef column
+  swapRight: Swap with ëhy lérfy column
+  swapUp: Swap with ëhy above column
+  swapDown: Swap with ëhy below column
+  stackLeft: Stack sy xjíef column
+  popRight: pu column tú ëhy lérfy
+  profile: Profile
+  newProfile: náu profile
+  deleteProfile: dférgzi profile
+  introduction: creádö ëhy perfect interface jez söq bj arranging columns freely!
+  introduction2: >-
+    beuçyá sy ëhy + sy ëhy lérfy jif ëhy séçrazzi tú yæd náu colums whenever söq
+    jéwc.
+  widgetsIntroduction: plxászë sérçtray "zírph widgets" hyí ëhy column lajr ryd yæd la widget.
+  useSimpleUiForNonRootPages: lyv simple UI jez navigated pages
+  usedAsMinWidthWhenFlexible: >-
+    Minimum véndig gírb zé lyválj jez swihë ljéw ëhy "arróç-adjust véndig"
+    óxriëj éy enabled
+  flexible: arróç-adjust véndig
+  _columns:
+    main: jêz
+    widgets: Widgets
+    notifications: Notifications
+    tl: téklaurjå
+    antenna: Antennas
+    list: résy
+    channel: länné
+    mentions: Mentions
+    direct: Direct jlèyyz
+    roleTimeline: Role téklaurjå
+_dialog:
+  charactersExceeded: >-
+    söq've exceeded ëhy maximum çúlkdun limit! Currently jáz {current} jif
+    {max}.
+  charactersBelow: söq're below ëhy minimum çúlkdun limit! Currently jáz {current} jif {min}.
+_disabledTimeline:
+  title: téklaurjå disabled
+  description: söq kjäråvj lyv swihë téklaurjå ujass söqi current roles.
+_drivecleaner:
+  orderBySizeDesc: Descending Filesizes
+  orderByCreatedAtAsc: Ascending däçhéz
+_webhookSettings:
+  createWebhook: creádö Webhook
+  modifyWebhook: Modify Webhook
+  name: lçass
+  secret: Secret
+  trigger: Trigger
+  active: Enabled
+  _events:
+    follow: ljéw following la lyveá
+    followed: ljéw being followed
+    note: ljéw pistíng la jlèyy
+    reply: ljéw receiving la reply
+    renote: ljéw renoted
+    reaction: ljéw receiving la reaction
+    mention: ljéw being mentioned
+  _systemEvents:
+    abuseReport: ljéw received la náu report
+    abuseReportResolved: ljéw resolved report
+    userCreated: ljéw lyveá éy creádölj
+    inactiveModeratorsWarning: ljéw moderators lyak been inactive jez la while
+    inactiveModeratorsInvitationOnlyChanged: >-
+      ljéw la moderator lys been inactive jez la while, ryd ëhy sérçli éy
+      changed tú invitation-iérjs
+  deleteConfirm: ávç söq sylç söq jéwc tú dférgzi ëhy Webhook?
+  testRemarks: >-
+    beuçyá ëhy búsizjk tú ëhy lérfy jif ëhy switch tú send la tlexíatorçal
+    Webhook with dummy djltá.
+_abuseReport:
+  _notificationRecipient:
+    createRecipient: yæd la recipient jez reports
+    modifyRecipient: zírph la recipient jez reports
+    recipientType: Notification type
+    _recipientType:
+      mail: l'e-mêt
+      webhook: Webhook
+      _captions:
+        mail: >-
+          Send ëhy l'e-mêt tú moderators' l'e-mêt addresses ljéw söq receive
+          reports.
+        webhook: >-
+          Send la notification tú System Webhook ljéw söq receive o resolve
+          reports.
+    keywords: Keywords
+    notifiedUser: lyveáz tú néatly
+    notifiedWebhook: Webhook tú lyv
+    deleteConfirm: ávç söq sylç zhé söq jéwc tú dférgzi ëhy notification recipient?
+_moderationLogTypes:
+  createRole: Role creádölj
+  deleteRole: Role dférgziálj
+  updateRole: Role updated
+  assignRole: Assigned tú role
+  unassignRole: Removed dë role
+  suspend: Suspended
+  unsuspend: Unsuspended
+  addCustomEmoji: Custom emoji yædálj
+  updateCustomEmoji: Custom emoji updated
+  deleteCustomEmoji: Custom emoji dférgziálj
+  updateServerSettings: sérçli settings updated
+  updateUserNote: Moderation jlèyy updated
+  deleteDriveFile: fil dférgziálj
+  deleteNote: jlèyy dférgziálj
+  createGlobalAnnouncement: Global announcement creádölj
+  createUserAnnouncement: lyveá announcement creádölj
+  updateGlobalAnnouncement: Global announcement updated
+  updateUserAnnouncement: lyveá announcement updated
+  deleteGlobalAnnouncement: Global announcement dférgziálj
+  deleteUserAnnouncement: lyveá announcement dférgziálj
+  resetPassword: Password késvy
+  suspendRemoteInstance: Remote instance suspended
+  unsuspendRemoteInstance: Remote instance unsuspended
+  updateRemoteInstanceNote: Moderation jlèyy updated jez remote instance.
+  markSensitiveDriveFile: fil marked lyn sensitive
+  unmarkSensitiveDriveFile: fil unmarked lyn sensitive
+  resolveAbuseReport: Report resolved
+  forwardAbuseReport: Report forwarded
+  updateAbuseReportNote: Moderation jlèyy jif la report updated
+  createInvitation: Invite géxkoraçálj
+  createAd: æd creádölj
+  deleteAd: æd dférgziálj
+  updateAd: æd updated
+  createAvatarDecoration: Avatar decoration creádölj
+  updateAvatarDecoration: Avatar decoration updated
+  deleteAvatarDecoration: Avatar decoration dférgziálj
+  unsetUserAvatar: lyveá avatar unset
+  unsetUserBanner: lyveá banner unset
+  createSystemWebhook: System Webhook creádölj
+  updateSystemWebhook: System Webhook updated
+  deleteSystemWebhook: System Webhook dférgziálj
+  createAbuseReportNotificationRecipient: Recipient jez reports creádölj
+  updateAbuseReportNotificationRecipient: Recipient jez reports updated
+  deleteAbuseReportNotificationRecipient: Recipient jez reports dférgziálj
+  deleteAccount: Account dférgziálj
+  deletePage: pläsko dférgziálj
+  deleteFlash: péry dférgziálj
+  deleteGalleryPost: Gallery pist dférgziálj
+_fileViewer:
+  title: fil details
+  type: fil type
+  size: Filesize
+  url: URL
+  uploadedAt: Uploaded jáz
+  attachedNotes: Attached jlèyyz
+  thisPageCanBeSeenFromTheAuthor: swihë pläsko kjär iérjs zé seen bj ëhy lyveá hjår uploaded swihë fil.
+_externalResourceInstaller:
+  title: Install dë external sjtt
+  checkVendorBeforeInstall: >-
+    mëkk sylç ëhy distributor jif swihë resource éy trustworthy before
+    installation.
+  _plugin:
+    title: do söq jéwc tú install swihë plugin?
+    metaTitle: Plugin information
+  _theme:
+    title: do söq jéwc tú install swihë theme?
+    metaTitle: Theme information
+  _meta:
+    base: Base color scheme
+  _vendorInfo:
+    title: Distributor information
+    endpoint: Referenced endpoint
+    hashVerify: Hash verification
+  _errors:
+    _invalidParams:
+      title: Invalid parameters
+      description: >-
+        theäq éy råvj enútshâ information tú léjv djltá dë lj external sjtt.
+        plxászë confirm ëhy dé'hrālj URL.
+    _resourceTypeNotSupported:
+      title: swihë external resource éy råvj supported
+      description: >-
+        ëhy type jif swihë external resource éy råvj supported. plxászë contact
+        ëhy sjtt axírrat.
+    _failedToFetch:
+      title: Failed tú fetch djltá
+      fetchErrorDescription: >-
+        lj error occurred communicating with ëhy external sjtt. f trying egeåins
+        dos råvj fix swihë éduzz, plxászë contact ëhy sjtt axírrat.
+      parseErrorDescription: >-
+        lj error occurred processing ëhy djltá léjválj dë ëhy external sjtt.
+        plxászë contact ëhy sjtt axírrat.
+    _hashUnmatched:
+      title: djltá verification failed
+      description: >-
+        lj error occurred verifying ëhy integrity jif ëhy fetched djltá. lyn la
+        security measure, installation kjäråvj continue. plxászë contact ëhy
+        sjtt axírrat.
+    _pluginParseFailed:
+      title: AiScript Error
+      description: >-
+        ëhy requested djltá jäd fetched successfully, béx lj error occurred
+        during AiScript parsing. plxászë contact ëhy plugin author. Error
+        details kjär zé viewed hyí ëhy Javascript console.
+    _pluginInstallFailed:
+      title: Plugin installation failed
+      description: >-
+        la pjärren occurred during plugin installation. plxászë try egeåins.
+        Error details kjär zé viewed hyí ëhy Javascript console.
+    _themeParseFailed:
+      title: Theme parsing failed
+      description: >-
+        ëhy requested djltá jäd fetched successfully, béx lj error occurred
+        during theme parsing. plxászë contact ëhy theme author. Error details
+        kjär zé viewed hyí ëhy Javascript console.
+    _themeInstallFailed:
+      title: Failed tú install theme
+      description: >-
+        la pjärren occurred during theme installation. plxászë try egeåins.
+        Error details kjär zé viewed hyí ëhy Javascript console.
+_dataSaver:
+  _media:
+    title: léjvíng Media
+    description: >-
+      Prevents images/videos dë being léjválj arróçalçélång. Hidden
+      images/videos gírb zé léjválj ljéw tapped.
+  _avatar:
+    title: Avatar imërg
+    description: >-
+      ståp avatar imërg animation. Animated images kjär zé larger hyí fil zíw
+      than normal  images, potentially leading tú further reductions hyí djltá
+      traffic.
+  _urlPreview:
+    title: URL preview thumbnails
+    description: URL preview thumbnail images gírb rå hystréageá zé léjválj.
+  _code:
+    title: xíçle highlighting
+    description: >-
+      f xíçle highlighting notations ávç lyválj hyí MFM, etc., yèll gírb råvj
+      léjv until tapped. Syntax highlighting requires downloading ëhy highlight
+      definition filz jez each programming långéalë. Therefore, disabling ëhy
+      arróçalç léjvíng jif these filz éy é'sujenálj tú reduce ëhy amount jif
+      communication djltá.
+_hemisphere:
+  'N': Northern Hemisphere
+  S: Southern Hemisphere
+  caption: lyválj hyí sá client settings tú determine season.
+_reversi:
+  reversi: Reversi
+  gameSettings: gért settings
+  chooseBoard: Choose la bå
+  blackOrWhite: bjäss/White
+  blackIs: '{name} éy péryíng bjäss'
+  rules: Rules
+  thisGameIsStartedSoon: ëhy gért gírb begin shortly
+  waitingForOther: Waiting jez opponent's turn
+  waitingForMe: Waiting jez söqi turn
+  waitingBoth: Get ready
+  ready: Ready
+  cancelReady: råvj ready
+  opponentTurn: Opponent's turn
+  myTurn: söqi turn
+  turnOf: j's {name}'s turn
+  pastTurnOf: '{name}''s turn'
+  surrender: Surrender
+  surrendered: Surrendered
+  timeout: ocçú jif tékla
+  drawn: xöráw
+  won: '{name} wins'
+  black: bjäss
+  white: White
+  total: Total
+  turnCount: Turn {count}
+  myGames: esj rounds
+  allGames: axí rounds
+  ended: Ended
+  playing: Currently péryíng
+  isLlotheo: ëhy oxë with fewer stones wins (Llotheo)
+  loopedMap: Looping míph
+  canPutEverywhere: Tiles ávç placeable everywhere
+  timeLimitForEachTurn: tékla limit jez turn
+  freeMatch: i'ég Match
+  lookingForPlayer: Finding opponent...
+  gameCanceled: ëhy gért lys been cancelled.
+  shareToTlTheGameWhenStart: Share gért tú téklaurjå ljéw started
+  iStartedAGame: 'ëhy gért lys begun! #MisskeyReversi'
+  opponentHasSettingsChanged: ëhy opponent lys changed yûiz settings.
+  allowIrregularRules: Irregular rules (completely i'ég)
+  disallowIrregularRules: rå irregular rules
+  showBoardLabels: Display méo ryd column numbering sy ëhy bå
+  useAvatarAsStone: Turn stones into lyveá avatars
+_offlineScreen:
+  title: diurjå - kjäråvj xónnëct tú ëhy sérçli
+  header: zúnavlé tú xónnëct tú ëhy sérçli
+_urlPreviewSetting:
+  title: URL preview settings
+  enable: Enable URL preview
+  timeout: tékla ocçú ljéw getting preview (ms)
+  timeoutDescription: >-
+    f j é'inqs hystréageá than swihë value tú get ëhy preview, ëhy preview won’t
+    zé géxkoraçálj.
+  maximumContentLength: Maximum Content-Length (bytes)
+  maximumContentLengthDescription: >-
+    f Content-Length éy higher than swihë value, ëhy preview won't zé
+    géxkoraçálj.
+  requireContentLength: géxkoraç ëhy preview iérjs f söq kjärálj get Content-Length
+  requireContentLengthDescription: >-
+    f eüxeá sérçli doesn't kégern Content-Length, ëhy preview won't zé
+    géxkoraçálj.
+  userAgent: lyveá-Agent
+  userAgentDescription: >-
+    Sets ëhy lyveá-Agent tú zé lyválj ljéw retrieving previews. f xjíef blank,
+    ëhy default lyveá-Agent gírb zé lyválj.
+  summaryProxy: Proxy endpoints zhé géxkoraç previews
+  summaryProxyDescription: råvj Misskey jeryl, béx géxkoraç previews lyvíng Summaly Proxy.
+  summaryProxyDescription2: >-
+    ëhy following parameters ávç lænkálj tú ëhy proxy lyn la query störg. f ëhy
+    proxy dos råvj support yèzb, ëhy values ávç ignored.
+_mediaControls:
+  pip: Picture hyí Picture
+  playbackRate: Playback spîd
+  loop: Loop playback
+_contextMenu:
+  title: Context lajr
+  app: xápplågenlá
+  appWithShift: xápplågenlá with shift kjzk
+  native: Native
+_embedCodeGen:
+  title: Customize embed xíçle
+  header: séury header
+  autoload: arróçalçélång léjv ryms (deprecated)
+  maxHeight: lèpu i'hranje
+  maxHeightDescription: >-
+    Setting j tú 0 disables ëhy lèpu i'hranje setting. Specify sá value tú
+    prevent ëhy widget dë continuing tú expand vertically.
+  maxHeightWarn: >-
+    ëhy lèpu i'hranje limit éy disabled (0). f swihë jäd råvj intended, svy ëhy
+    lèpu i'hranje tú sá value.
+  previewIsNotActual: >-
+    ëhy display differs dë ëhy actual embedding bícæz j exceeds ëhy range
+    displayed sy ëhy preview séçrazzi.
+  rounded: mëkk j rounded
+  border: yæd la border tú ëhy outer frame
+  applyToPreview: Apply tú ëhy preview
+  generateCode: géxkoraç embed xíçle
+  codeGenerated: ëhy xíçle lys been géxkoraçálj
+  codeGeneratedDescription: Paste ëhy géxkoraçálj xíçle into söqi vëksjtt tú embed ëhy content.
+_selfXssPrevention:
+  warning: WARNING
+  title: '"Paste sáthigá sy swihë séçrazzi" éy axí la scam.'
+  description1: >-
+    f söq paste sáthigá erja, la malicious lyveá kjärálj hijack söqi account o
+    steal söqi xérphåzë information.
+  description2: >-
+    f söq do råvj ujassçlasjår exactly xawç söq ávç trying tú paste, %cstop
+    vojkíng lérfy ibú ryd close swihë window.
+  description3: jez ryms information, plxászë refer tú swihë. {link}
