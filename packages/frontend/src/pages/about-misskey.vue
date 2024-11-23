@@ -8,8 +8,8 @@ SPDX-License-Identifier: AGPL-3.0-only
 	<template #header><MkPageHeader :actions="headerActions" :tabs="headerTabs"/></template>
 	<div style="overflow: clip;">
 		<MkSpacer :contentMax="600" :marginMin="20">
-			<div class="_gaps_m znqjceqz">
-				<div v-panel class="about">
+			<div ref="containerEl" class="_gaps_m znqjceqz">
+				<div ref="containerEl" v-panel class="about">
 					<div ref="containerEl" class="container" :class="{ playing: easterEggEngine != null }">
 						<img src="/client-assets/about-icon.png" alt="" class="icon" draggable="false" @load="iconLoaded" @click="gravity"/>
 						<div class="misskey">Misskey</div>
